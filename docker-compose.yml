@@ -5,7 +5,7 @@ services:
     platform: linux/amd64
     environment:
       ACCEPT_EULA: "Y"
-      MSSQL_SA_PASSWORD: "${MSSQL_SA_PASSWORD:-MatKhau@12345}"
+      MSSQL_SA_PASSWORD: "${MSSQL_SA_PASSWORD:?Vui long khai bao MSSQL_SA_PASSWORD trong tep .env}"
     ports:
       - "1433:1433"
     volumes:
