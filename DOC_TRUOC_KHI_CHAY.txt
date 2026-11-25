@@ -47,7 +47,7 @@ Hai CSV after khớp 5.083 giá trị dữ liệu, không tính MaHoSo.
 Bảng SQL nhập lại bằng float có sai số hiển thị nhỏ đã nêu trong báo cáo.
 Hai cột platelets làm mịn là hai phép độc lập; cột platelets làm sạch vẫn giữ.
 
-5. LƯU Ý NỘP
-Dàn ý yêu cầu original, before, after. Bài có hai cách thực hiện nên giữ hai
-file after_SQL và after_Python để giảng viên đối chiếu. Đây là gói để nộp;
-không kèm môi trường Python, thư viện cài sẵn, mật khẩu hoặc bản Word cũ.
+5. LƯU Ý CẤU TRÚC & MÔI TRƯỜNG
+Bộ dữ liệu gồm các phiên bản original, before và after. Dự án triển khai song song
+trên SQL Server và Python nên lưu trữ cả hai kết quả after_SQL và after_Python để đối chiếu.
+Repository chỉ lưu mã nguồn và dữ liệu sạch; không kèm môi trường ảo (.venv), mật khẩu (.env) hay tệp tạm.
