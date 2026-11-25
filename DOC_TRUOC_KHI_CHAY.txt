@@ -1,6 +1,6 @@
-BỘ NỘP ĐỒ ÁN PHÂN TÍCH DỮ LIỆU CƠ BẢN
-Võ Minh Huy — 2311110117
-Giảng viên: Lê Văn Hạnh — Ngày báo cáo: 04/11/2026
+DỰ ÁN PHÂN TÍCH & LÀM SẠCH DỮ LIỆU HEART FAILURE PREDICTION
+Tác giả: Võ Minh Huy
+Ngày cập nhật: 04/11/2026
 
 1. THÀNH PHẦN
 VoMinhHuy_DoAn.docx: báo cáo chính, đã cập nhật kết luận và 15 đồ thị.
@@ -9,7 +9,6 @@ python/: 39 Jupyter Notebook và 3 file .py phụ thuộc cần thiết.
 query_dataanalyst.sql: toàn bộ truy vấn tiền xử lý và phân tích thực hiện trong SQL Server (VS Code MSSQL).
 sql/: các truy vấn từng phần, thống kê sau xử lý và script xuất after.
 ket_qua/: kết quả trung gian, bảng thống kê, đồ thị và minh chứng đã lưu.
-DanYMonHoc.pdf và MoTaCauTrucDuLieu.png: tài liệu đề bài, đối chiếu cùng báo cáo.
 
 2. CHẠY PYTHON
 Giải nén toàn bộ gói trước khi chạy; giữ cấu trúc thư mục.
