@@ -3,7 +3,13 @@ set -euo pipefail
 
 ROOT_DIR="$(cd "$(dirname "$0")/.." && pwd)"
 OUTPUT_FILE="$ROOT_DIR/VoMinhHuy_Heart Failure Prediction_after_SQL.csv"
-SA_PASS="${MSSQL_SA_PASSWORD:-MatKhau@12345}"
+if [ -z "${MSSQL_SA_PASSWORD:-}" ] && [ -f "$ROOT_DIR/.env" ]; then
+  set -a
+  source "$ROOT_DIR/.env"
+  set +a
+fi
+
+SA_PASS="${MSSQL_SA_PASSWORD:?Vui long khai bao MSSQL_SA_PASSWORD trong tep .env (xem .env.example)}"
 
 SQLCMD_BIN=$(docker exec sql_doan sh -c '
   if [ -x /opt/mssql-tools18/bin/sqlcmd ]; then
