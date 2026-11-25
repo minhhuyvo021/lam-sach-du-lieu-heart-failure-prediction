@@ -16,10 +16,13 @@ Pipeline tiền xử lý, kiểm định chất lượng và trực quan hóa d�
 
 ### Khởi động SQL Server và chạy pipeline Python
 ~~~bash
-# 1. Bật container SQL Server
+# 1. Tạo tệp biến môi trường cục bộ và điền mật khẩu SA (MSSQL_SA_PASSWORD)
+cp .env.example .env
+
+# 2. Bật container SQL Server
 docker compose up -d
 
-# 2. Kích hoạt môi trường ảo Python và chạy kiểm định điền khuyết N01–N07
+# 3. Kích hoạt môi trường ảo Python và chạy kiểm định điền khuyết N01–N07
 source .venv/bin/activate
 python3 python/04_dien_null.py
 ~~~
