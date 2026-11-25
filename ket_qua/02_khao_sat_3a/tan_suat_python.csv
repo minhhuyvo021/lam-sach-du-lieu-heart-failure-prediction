@@ -1,0 +1,24 @@
+﻿STT,TenCot,GiaTriHienThi,SoKyTu,SoLuong
+1,anaemia,<NULL>,,5
+1,anaemia,[0],1,170
+1,anaemia,[1],1,134
+2,diabetes,<NULL>,,5
+2,diabetes,[0],1,179
+2,diabetes,[1],1,125
+3,high_blood_pressure,<NULL>,,5
+3,high_blood_pressure,[0],1,197
+3,high_blood_pressure,[1],1,107
+4,sex,<NULL>,,25
+4,sex,[   F   ],7,1
+4,sex,[   Male   ],10,24
+4,sex,[0],1,82
+4,sex,[1],1,160
+4,sex,[female],6,16
+4,sex,[m],1,1
+5,smoking,<NULL>,,5
+5,smoking,[0],1,207
+5,smoking,[1],1,97
+6,DEATH_EVENT,<NULL>,,5
+6,DEATH_EVENT,[0],1,204
+6,DEATH_EVENT,[1],1,99
+6,DEATH_EVENT,[2],1,1

@@ -1,0 +1,8 @@
+﻿rule_id,column_name,hidden_count,predicted_count,metric,group_score,baseline_score,baseline_value,better_than_baseline
+N01,sex,56,56,accuracy,0.5892857143,0.7500000000,1.000000,False
+N02,age,56,56,MAE,9.0047678571,9.0297678571,60.000000,True
+N03,creatinine_phosphokinase,56,56,MAE,568.3035714286,567.7678571429,246.000000,False
+N04,platelets,56,56,MAE,77242.2675000000,77937.3239285714,258664.510000,True
+N05,serum_creatinine,56,56,MAE,0.4641071429,0.4605357143,1.100000,False
+N06,serum_sodium,56,56,MAE,3.1964285714,2.8035714286,136.000000,False
+N07,ejection_fraction,60,60,MAE,9.8500000000,9.7833333333,38.000000,False

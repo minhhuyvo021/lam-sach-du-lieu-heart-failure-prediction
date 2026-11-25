@@ -1,0 +1,53 @@
+﻿rule_id,column,group,donor_count,eligible_at_min5
+N01,sex,anaemia=0; diabetes=0; smoking=0; high_blood_pressure=0,32,True
+N01,sex,anaemia=0; diabetes=0; smoking=0; high_blood_pressure=1,21,True
+N01,sex,anaemia=0; diabetes=0; smoking=1; high_blood_pressure=0,29,True
+N01,sex,anaemia=0; diabetes=0; smoking=1; high_blood_pressure=1,9,True
+N01,sex,anaemia=0; diabetes=1; smoking=0; high_blood_pressure=0,32,True
+N01,sex,anaemia=0; diabetes=1; smoking=0; high_blood_pressure=1,17,True
+N01,sex,anaemia=0; diabetes=1; smoking=1; high_blood_pressure=0,12,True
+N01,sex,anaemia=0; diabetes=1; smoking=1; high_blood_pressure=1,8,True
+N01,sex,anaemia=1; diabetes=0; smoking=0; high_blood_pressure=0,29,True
+N01,sex,anaemia=1; diabetes=0; smoking=0; high_blood_pressure=1,20,True
+N01,sex,anaemia=1; diabetes=0; smoking=1; high_blood_pressure=0,14,True
+N01,sex,anaemia=1; diabetes=0; smoking=1; high_blood_pressure=1,9,True
+N01,sex,anaemia=1; diabetes=1; smoking=0; high_blood_pressure=0,23,True
+N01,sex,anaemia=1; diabetes=1; smoking=0; high_blood_pressure=1,15,True
+N01,sex,anaemia=1; diabetes=1; smoking=1; high_blood_pressure=0,7,True
+N01,sex,anaemia=1; diabetes=1; smoking=1; high_blood_pressure=1,2,False
+N02,age,sex=0.0; diabetes=0,45,True
+N02,age,sex=0.0; diabetes=1,51,True
+N02,age,sex=1.0; diabetes=0,103,True
+N02,age,sex=1.0; diabetes=1,58,True
+N03,creatinine_phosphokinase,age_group=A1; anaemia=0,27,True
+N03,creatinine_phosphokinase,age_group=A1; anaemia=1,14,True
+N03,creatinine_phosphokinase,age_group=A2; anaemia=0,41,True
+N03,creatinine_phosphokinase,age_group=A2; anaemia=1,30,True
+N03,creatinine_phosphokinase,age_group=A3; anaemia=0,40,True
+N03,creatinine_phosphokinase,age_group=A3; anaemia=1,41,True
+N03,creatinine_phosphokinase,age_group=A4; anaemia=0,41,True
+N03,creatinine_phosphokinase,age_group=A4; anaemia=1,24,True
+N04,platelets,sex=0.0; anaemia=0,43,True
+N04,platelets,sex=0.0; anaemia=1,50,True
+N04,platelets,sex=1.0; anaemia=0,104,True
+N04,platelets,sex=1.0; anaemia=1,65,True
+N05,serum_creatinine,age_group=A1; high_blood_pressure=0,25,True
+N05,serum_creatinine,age_group=A1; high_blood_pressure=1,12,True
+N05,serum_creatinine,age_group=A2; high_blood_pressure=0,45,True
+N05,serum_creatinine,age_group=A2; high_blood_pressure=1,24,True
+N05,serum_creatinine,age_group=A3; high_blood_pressure=0,58,True
+N05,serum_creatinine,age_group=A3; high_blood_pressure=1,28,True
+N05,serum_creatinine,age_group=A4; high_blood_pressure=0,33,True
+N05,serum_creatinine,age_group=A4; high_blood_pressure=1,32,True
+N06,serum_sodium,age_group=A1; diabetes=0,24,True
+N06,serum_sodium,age_group=A1; diabetes=1,17,True
+N06,serum_sodium,age_group=A2; diabetes=0,39,True
+N06,serum_sodium,age_group=A2; diabetes=1,31,True
+N06,serum_sodium,age_group=A3; diabetes=0,37,True
+N06,serum_sodium,age_group=A3; diabetes=1,48,True
+N06,serum_sodium,age_group=A4; diabetes=0,44,True
+N06,serum_sodium,age_group=A4; diabetes=1,19,True
+N07,ejection_fraction,sex=0.0; high_blood_pressure=0,55,True
+N07,ejection_fraction,sex=0.0; high_blood_pressure=1,44,True
+N07,ejection_fraction,sex=1.0; high_blood_pressure=0,123,True
+N07,ejection_fraction,sex=1.0; high_blood_pressure=1,56,True

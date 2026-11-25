@@ -1,0 +1,54 @@
+﻿stage,column,value,display_value,count
+original,anaemia,0,'0',170
+original,anaemia,1,'1',129
+before,anaemia,0,'0',170
+before,anaemia,1,'1',134
+before,anaemia,,'',5
+before_nonempty,anaemia,0,'0',170
+before_nonempty,anaemia,1,'1',134
+original,diabetes,0,'0',174
+original,diabetes,1,'1',125
+before,diabetes,0,'0',179
+before,diabetes,1,'1',125
+before,diabetes,,'',5
+before_nonempty,diabetes,0,'0',179
+before_nonempty,diabetes,1,'1',125
+original,high_blood_pressure,0,'0',194
+original,high_blood_pressure,1,'1',105
+before,high_blood_pressure,0,'0',197
+before,high_blood_pressure,1,'1',107
+before,high_blood_pressure,,'',5
+before_nonempty,high_blood_pressure,0,'0',197
+before_nonempty,high_blood_pressure,1,'1',107
+original,sex,1,'1',194
+original,sex,0,'0',105
+before,sex,1,'1',160
+before,sex,0,'0',82
+before,sex,,'',25
+before,sex,   Male   ,'   Male   ',24
+before,sex,female,'female',16
+before,sex,m,'m',1
+before,sex,   F   ,'   F   ',1
+before_nonempty,sex,1,'1',160
+before_nonempty,sex,0,'0',82
+before_nonempty,sex,   Male   ,'   Male   ',24
+before_nonempty,sex,,'',20
+before_nonempty,sex,female,'female',16
+before_nonempty,sex,m,'m',1
+before_nonempty,sex,   F   ,'   F   ',1
+original,smoking,0,'0',203
+original,smoking,1,'1',96
+before,smoking,0,'0',207
+before,smoking,1,'1',97
+before,smoking,,'',5
+before_nonempty,smoking,0,'0',207
+before_nonempty,smoking,1,'1',97
+original,DEATH_EVENT,0,'0',203
+original,DEATH_EVENT,1,'1',96
+before,DEATH_EVENT,0,'0',204
+before,DEATH_EVENT,1,'1',99
+before,DEATH_EVENT,,'',5
+before,DEATH_EVENT,2,'2',1
+before_nonempty,DEATH_EVENT,0,'0',204
+before_nonempty,DEATH_EVENT,1,'1',99
+before_nonempty,DEATH_EVENT,2,'2',1

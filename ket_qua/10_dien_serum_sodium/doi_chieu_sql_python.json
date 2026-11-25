@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "compared_rows": 21,
+  "compared_fields": [
+    "SodiumTruoc",
+    "age",
+    "age_group",
+    "diabetes",
+    "CapNhom",
+    "SoMauCho",
+    "TanSuatMode",
+    "ModeNhom",
+    "SodiumDien"
+  ],
+  "observed_serum_sodium_preserved": true,
+  "other_columns_preserved": true,
+  "before_sha256": "d14cfc3e65d5b7eb772bec919bef749de338ea7f63a509ee66c830dd3293e8c5"
+}

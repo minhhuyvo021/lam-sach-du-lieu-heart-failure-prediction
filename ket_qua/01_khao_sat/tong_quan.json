@@ -1,0 +1,41 @@
+{
+  "original_rows": 299,
+  "before_rows": 309,
+  "columns": 13,
+  "empty_rows": 5,
+  "nonempty_rows": 304,
+  "exact_duplicate_extra_rows": 3,
+  "normalized_duplicate_extra_rows": 5,
+  "appended_patient_rows": 5,
+  "empty_csv_lines": [
+    306,
+    307,
+    308,
+    309,
+    310
+  ],
+  "changed_cells_299_including_formatting": 749,
+  "numeric_format_only_cells": 582,
+  "substantive_changed_cells_299": 167,
+  "missing_cells_first299": 120,
+  "missing_cells_nonempty_before": 122,
+  "change_type_counts_first299": {
+    "numeric_format_only": 582,
+    "missing": 120,
+    "category_value_changed": 2,
+    "numeric_value_changed": 5,
+    "category_representation": 38,
+    "wrong_type": 1,
+    "invalid_target": 1
+  },
+  "input_sha256": {
+    "heart_failure_clinical_records_dataset_original.csv": "9c73cea7468ff5d517801ec050fe9993da5912fce4b56f296f8df3b38dd75912",
+    "VoMinhHuy_Heart Failure Prediction_before.csv": "d14cfc3e65d5b7eb772bec919bef749de338ea7f63a509ee66c830dd3293e8c5"
+  },
+  "runtime": {
+    "python": "3.12.10",
+    "pandas": "3.1.1"
+  },
+  "alignment_method": "Thứ tự 299 dòng đầu; đối chiếu khớp toàn bộ anaemia, diabetes, high_blood_pressure, smoking, time.",
+  "normalized_duplicate_rule": "Trim + chuẩn hóa số + sex {m,male:1; f,female:0}; đây là kiểm tra bổ sung, chưa xóa hồ sơ."
+}

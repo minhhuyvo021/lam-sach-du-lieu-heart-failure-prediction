@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "rows_in_source": 299,
+  "attributes_compared": 12,
+  "fields_compared": [
+    "SoGiaTri",
+    "Min",
+    "Max",
+    "MienGiaTri",
+    "DoLechChuan"
+  ],
+  "sample_std_ddof": 1,
+  "range_column": "platelets",
+  "std_column": "platelets",
+  "source_sha256": "0f829e3ef4f5508fb56675b1a9c0ec23bed246b19b43197f999400aad930b6f2",
+  "source_preserved": true
+}

@@ -1,0 +1,5 @@
+{
+  "status": "PASS",
+  "cells_checked": 21,
+  "comparison": "Age group, anaemia, group priority, donor counts, exact medians and rounded CPK agree with independently executed Python N03. Observed CPK values unchanged."
+}

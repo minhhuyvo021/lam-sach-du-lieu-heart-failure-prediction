@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "input_records": 299,
+  "group_rows": 8,
+  "represented_records": 299,
+  "all_three_means_verified": true
+}

@@ -1,0 +1,157 @@
+{
+  "status": "Đề xuất thiết kế, chưa thực hiện điền thiếu SQL hoặc Python",
+  "minimum_valid_donors": 5,
+  "rounding": "Decimal ROUND_HALF_UP, only imputed values",
+  "donor_numeric_representation": "DECIMAL(18,6)",
+  "frozen_donors": "Chỉ giá trị quan sát hợp lệ trước điền, khóa nhóm cũng phải quan sát được",
+  "recipient_keys": "Có thể dùng sex và age đã điền theo thứ tự N01, N02 để xác định nhóm người nhận",
+  "age_groups": {
+    "A1": "age < 50",
+    "A2": "50 <= age < 60",
+    "A3": "60 <= age < 70",
+    "A4": "age >= 70"
+  },
+  "invalid_values_confirmed_by_audit": {
+    "age": [
+      -12,
+      250
+    ],
+    "creatinine_phosphokinase": [
+      99999
+    ],
+    "serum_sodium": [
+      999
+    ],
+    "ejection_fraction": [
+      150
+    ]
+  },
+  "invalid_age_text": "Invalid_Age",
+  "never_impute_target": "DEATH_EVENT",
+  "no_eligible_group": "Giữ thiếu, ghi lý do; không mặc định 0 hoặc sao chép original",
+  "group_selection": "Từ trái sang phải; nhóm đầu có đủ 5 mẫu hợp lệ được chọn; [] là toàn cục",
+  "input_sha256": "d14cfc3e65d5b7eb772bec919bef749de338ea7f63a509ee66c830dd3293e8c5",
+  "rules": [
+    {
+      "id": "N01",
+      "column": "sex",
+      "statistic": "mode",
+      "decimals": 0,
+      "groups": [
+        [
+          "anaemia",
+          "diabetes",
+          "smoking",
+          "high_blood_pressure"
+        ],
+        [
+          "anaemia",
+          "diabetes"
+        ],
+        [
+          "diabetes"
+        ],
+        []
+      ],
+      "tie_break": "Giá trị số nhỏ nhất trong tập đồng mode"
+    },
+    {
+      "id": "N02",
+      "column": "age",
+      "statistic": "median",
+      "decimals": 1,
+      "groups": [
+        [
+          "sex",
+          "diabetes"
+        ],
+        [
+          "sex"
+        ],
+        []
+      ]
+    },
+    {
+      "id": "N03",
+      "column": "creatinine_phosphokinase",
+      "statistic": "median",
+      "decimals": 0,
+      "groups": [
+        [
+          "age_group",
+          "anaemia"
+        ],
+        [
+          "age_group"
+        ],
+        []
+      ]
+    },
+    {
+      "id": "N04",
+      "column": "platelets",
+      "statistic": "mean",
+      "decimals": 2,
+      "groups": [
+        [
+          "sex",
+          "anaemia"
+        ],
+        [
+          "sex"
+        ],
+        []
+      ]
+    },
+    {
+      "id": "N05",
+      "column": "serum_creatinine",
+      "statistic": "median",
+      "decimals": 2,
+      "groups": [
+        [
+          "age_group",
+          "high_blood_pressure"
+        ],
+        [
+          "age_group"
+        ],
+        []
+      ]
+    },
+    {
+      "id": "N06",
+      "column": "serum_sodium",
+      "statistic": "mode",
+      "decimals": 0,
+      "groups": [
+        [
+          "age_group",
+          "diabetes"
+        ],
+        [
+          "age_group"
+        ],
+        []
+      ],
+      "tie_break": "Giá trị số nhỏ nhất trong tập đồng mode"
+    },
+    {
+      "id": "N07",
+      "column": "ejection_fraction",
+      "statistic": "median",
+      "decimals": 0,
+      "groups": [
+        [
+          "sex",
+          "high_blood_pressure"
+        ],
+        [
+          "sex"
+        ],
+        []
+      ]
+    }
+  ],
+  "invalid_target_policy": "Giữ đặc trưng quan sát hợp lệ trong tập mẫu cho không giám sát; gắn cờ nhãn 2 và loại khỏi phân tích cần nhãn hợp lệ; không điền nhãn."
+}

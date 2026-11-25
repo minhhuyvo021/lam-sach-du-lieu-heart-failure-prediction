@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "masked_cases": 56,
+  "group_correct": 33,
+  "baseline_correct": 42,
+  "comparison": "Same masks, truths, group predictions and baseline predictions as prior independent Python validation with seed 42."
+}

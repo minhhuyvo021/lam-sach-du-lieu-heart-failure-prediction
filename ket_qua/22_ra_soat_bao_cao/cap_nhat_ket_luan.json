@@ -1,0 +1,20 @@
+{
+  "main_word": "VoMinhHuy_DoAn.docx",
+  "removed_legacy_body_elements": 165,
+  "conclusion_sections": [
+    "Kết quả đạt được",
+    "Hạn chế của đồ án",
+    "Hướng phát triển"
+  ],
+  "charts": 15,
+  "types": 11,
+  "aggregated_charts": 7,
+  "source_csv_unchanged": true,
+  "pending_target": 1,
+  "toc_rebuilt": true,
+  "figure_and_table_lists_updated": true,
+  "broken_bookmark_errors": 0,
+  "rendered_pages": 114,
+  "visual_qa": "Updated contents, conclusion and references reviewed; school formatting preserved.",
+  "after_csv_hashes_unchanged": true
+}

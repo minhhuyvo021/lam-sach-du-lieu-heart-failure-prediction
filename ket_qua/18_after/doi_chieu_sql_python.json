@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "rows_sql": 299,
+  "rows_python": 299,
+  "columns_including_internal_id": 18,
+  "compared_columns": 17,
+  "compared_values": 5083,
+  "mismatching_rows_both_directions": 0,
+  "comparison": "Complete numeric row multiset, including NULL and multiplicity; excludes local MaHoSo",
+  "unknown_targets": [
+    1,
+    1
+  ],
+  "sha256": {
+    "VoMinhHuy_Heart Failure Prediction_after_SQL.csv": "b04aa75d89e7d5fe28b05d66fb18d77b3718f4638f7289216bf99efef38eebdc",
+    "VoMinhHuy_Heart Failure Prediction_after_Python.csv": "0e541f667fae7c85da4bbbc3eadaa16a2064ec9d6d8069ddeeb0bf1cc7e0006d"
+  }
+}

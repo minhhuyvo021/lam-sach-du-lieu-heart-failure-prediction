@@ -1,0 +1,14 @@
+﻿column,meaning,unit,logical_type,original_min,original_max,note,source
+age,Tuổi bệnh nhân,năm,Số thực,40.0,95.0,Giữ tuổi thập phân trong dữ liệu gốc,https://archive.ics.uci.edu/dataset/519/heart+failure+clinical+records
+anaemia,Chỉ báo thiếu máu,0/1,Nhị phân,0.0,1.0,0: Không; 1: Có,https://archive.ics.uci.edu/dataset/519/heart+failure+clinical+records
+creatinine_phosphokinase,Nồng độ enzyme CPK trong máu,mcg/L,Số nguyên,23.0,7861.0,Theo mô tả UCI,https://archive.ics.uci.edu/dataset/519/heart+failure+clinical+records
+diabetes,Chỉ báo đái tháo đường,0/1,Nhị phân,0.0,1.0,0: Không; 1: Có,https://archive.ics.uci.edu/dataset/519/heart+failure+clinical+records
+ejection_fraction,Phân suất tống máu,%,Số nguyên,14.0,80.0,Tỷ lệ máu được tống ra trong mỗi lần co bóp,https://archive.ics.uci.edu/dataset/519/heart+failure+clinical+records
+high_blood_pressure,Chỉ báo tăng huyết áp,0/1,Nhị phân,0.0,1.0,0: Không; 1: Có,https://archive.ics.uci.edu/dataset/519/heart+failure+clinical+records
+platelets,Số lượng tiểu cầu trong máu,kiloplatelets/mL (theo UCI),Số thực,25100.0,850000.0,Giữ nguyên thang số trong CSV,https://archive.ics.uci.edu/dataset/519/heart+failure+clinical+records
+serum_creatinine,Nồng độ creatinine huyết thanh,mg/dL,Số thực,0.5,9.4,Không nhầm với creatinine_phosphokinase,https://archive.ics.uci.edu/dataset/519/heart+failure+clinical+records
+serum_sodium,Nồng độ natri huyết thanh,mEq/L,Số nguyên,113.0,148.0,Theo mô tả UCI,https://archive.ics.uci.edu/dataset/519/heart+failure+clinical+records
+sex,Giới tính được mã hóa trong bộ dữ liệu,0/1,Nhị phân,0.0,1.0,0: Nữ; 1: Nam; bản before có thêm các cách ghi bằng chữ,https://archive.ics.uci.edu/dataset/519/heart+failure+clinical+records
+smoking,Chỉ báo hút thuốc,0/1,Nhị phân,0.0,1.0,0: Không; 1: Có,https://archive.ics.uci.edu/dataset/519/heart+failure+clinical+records
+time,Thời gian theo dõi,ngày,Số nguyên,4.0,285.0,"Khoảng thời gian theo dõi, không phải ngày tháng lịch",https://archive.ics.uci.edu/dataset/519/heart+failure+clinical+records
+DEATH_EVENT,Tử vong trong thời gian theo dõi,0/1,Nhãn nhị phân,0.0,1.0,0: Không; 1: Có; không phải nhãn chẩn đoán suy tim,https://archive.ics.uci.edu/dataset/519/heart+failure+clinical+records

@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "columns": 13,
+  "records": 299,
+  "flagged_cells": 95,
+  "quantile_method": "linear",
+  "input": "after N07 before smoothing",
+  "mutation": false
+}

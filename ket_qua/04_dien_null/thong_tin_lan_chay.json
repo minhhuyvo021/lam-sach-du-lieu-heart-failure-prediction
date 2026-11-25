@@ -1,0 +1,15 @@
+{
+  "input_sha256": "d14cfc3e65d5b7eb772bec919bef749de338ea7f63a509ee66c830dd3293e8c5",
+  "source": "VoMinhHuy_Heart Failure Prediction_before.csv",
+  "rules": [
+    "N01",
+    "N02",
+    "N03",
+    "N04",
+    "N05",
+    "N06",
+    "N07"
+  ],
+  "note": "Kết quả trung gian của 3b(i), chưa phải after cuối; nhãn 2 được giữ và gắn cờ.",
+  "validation": "Che ceil(20% * n_observed) mỗi cột, theo SHA256 UTF16LE(42|rule_id|record_key)."
+}

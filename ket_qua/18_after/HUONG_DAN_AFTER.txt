@@ -1,0 +1,23 @@
+﻿HAI FILE AFTER
+SQL và Python: mỗi file 299 dòng, 18 cột gồm MaHoSo.
+13 cột gốc sau làm sạch + MaNhomTuoi + MaBoolean + hai cột làm mịn + MaHoSo.
+MaHoSo chỉ là khóa nội bộ, không phải số dòng nguồn; hai môi trường có thể khác ID.
+platelets giữ giá trị đã làm sạch. platelets_mean_5_nhom là nhánh mean 5 khoảng.
+platelets_dieu_chinh_10pct là nhánh độc lập tăng 5 nhỏ nhất và giảm 5 lớn nhất.
+MaNhomTuoi: 1 <50; 2 [50,60); 3 [60,70); 4 >=70.
+MaBoolean = anaemia + 2*diabetes + 4*high_blood_pressure + 8*sex + 16*smoking.
+Năm biến riêng giữ lại để diễn giải; không tính mã gộp như biến liên tục.
+DEATH_EVENT có 1 ô trống chờ xác minh, 203 giá trị 0 và 95 giá trị 1.
+Không coi nhãn trống là 0. Thống kê cần nhãn dùng 298 hồ sơ.
+Các bảng giảm chiều/tổng hợp nhóm là sản phẩm riêng, không thay bảng đầy đủ.
+
+CHẠY LẠI
+SQL: chạy sql/10_hop_nhat_after.sql trong tab SSMS đã có các bảng tạm trước.
+Muốn xuất CSV tự động và tái chạy toàn bộ SQL từ raw: PowerShell chạy
+  & ./sql/10_xuat_after.ps1
+Script tạo kết nối riêng, chỉ đọc bảng raw và dùng bảng tạm; không sửa nguồn.
+Python: mở python/22_xuat_after.ipynb, Run All, chụp hai bảng tổng kết/đối chiếu.
+Các intermediate Python trước đó phải còn nguyên. Không cần cài thêm thư viện.
+Đối chiếu lưu trong doi_chieu_sql_python.json, so tổ hợp đầy đủ 17 cột,
+gồm cả NULL và số lần xuất hiện, không phụ thuộc thứ tự dòng/khóa nội bộ.
+Hai file không cần giống từng byte vì cách ghi số và ID có thể khác.

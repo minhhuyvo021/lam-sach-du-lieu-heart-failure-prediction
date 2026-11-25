@@ -1,0 +1,344 @@
+[
+  [
+    {
+      "TongSoDong": 309,
+      "TongSoCot": 13
+    }
+  ],
+  [
+    {
+      "STT": 1,
+      "TenCot": "age",
+      "KieuLuuTru": "nvarchar",
+      "DoDaiToiDa": 50,
+      "ChoPhepNull": "YES"
+    },
+    {
+      "STT": 2,
+      "TenCot": "anaemia",
+      "KieuLuuTru": "nvarchar",
+      "DoDaiToiDa": 50,
+      "ChoPhepNull": "YES"
+    },
+    {
+      "STT": 3,
+      "TenCot": "creatinine_phosphokinase",
+      "KieuLuuTru": "nvarchar",
+      "DoDaiToiDa": 50,
+      "ChoPhepNull": "YES"
+    },
+    {
+      "STT": 4,
+      "TenCot": "diabetes",
+      "KieuLuuTru": "nvarchar",
+      "DoDaiToiDa": 50,
+      "ChoPhepNull": "YES"
+    },
+    {
+      "STT": 5,
+      "TenCot": "ejection_fraction",
+      "KieuLuuTru": "nvarchar",
+      "DoDaiToiDa": 50,
+      "ChoPhepNull": "YES"
+    },
+    {
+      "STT": 6,
+      "TenCot": "high_blood_pressure",
+      "KieuLuuTru": "nvarchar",
+      "DoDaiToiDa": 50,
+      "ChoPhepNull": "YES"
+    },
+    {
+      "STT": 7,
+      "TenCot": "platelets",
+      "KieuLuuTru": "nvarchar",
+      "DoDaiToiDa": 50,
+      "ChoPhepNull": "YES"
+    },
+    {
+      "STT": 8,
+      "TenCot": "serum_creatinine",
+      "KieuLuuTru": "nvarchar",
+      "DoDaiToiDa": 50,
+      "ChoPhepNull": "YES"
+    },
+    {
+      "STT": 9,
+      "TenCot": "serum_sodium",
+      "KieuLuuTru": "nvarchar",
+      "DoDaiToiDa": 50,
+      "ChoPhepNull": "YES"
+    },
+    {
+      "STT": 10,
+      "TenCot": "sex",
+      "KieuLuuTru": "nvarchar",
+      "DoDaiToiDa": 50,
+      "ChoPhepNull": "YES"
+    },
+    {
+      "STT": 11,
+      "TenCot": "smoking",
+      "KieuLuuTru": "nvarchar",
+      "DoDaiToiDa": 50,
+      "ChoPhepNull": "YES"
+    },
+    {
+      "STT": 12,
+      "TenCot": "time",
+      "KieuLuuTru": "nvarchar",
+      "DoDaiToiDa": 50,
+      "ChoPhepNull": "YES"
+    },
+    {
+      "STT": 13,
+      "TenCot": "DEATH_EVENT",
+      "KieuLuuTru": "nvarchar",
+      "DoDaiToiDa": 50,
+      "ChoPhepNull": "YES"
+    }
+  ],
+  [
+    {
+      "STT": 1,
+      "TenCot": "age",
+      "SoGiaTriThieu": 26,
+      "TyLeThieuPhanTram": 8.41
+    },
+    {
+      "STT": 2,
+      "TenCot": "anaemia",
+      "SoGiaTriThieu": 5,
+      "TyLeThieuPhanTram": 1.62
+    },
+    {
+      "STT": 3,
+      "TenCot": "creatinine_phosphokinase",
+      "SoGiaTriThieu": 25,
+      "TyLeThieuPhanTram": 8.09
+    },
+    {
+      "STT": 4,
+      "TenCot": "diabetes",
+      "SoGiaTriThieu": 5,
+      "TyLeThieuPhanTram": 1.62
+    },
+    {
+      "STT": 5,
+      "TenCot": "ejection_fraction",
+      "SoGiaTriThieu": 5,
+      "TyLeThieuPhanTram": 1.62
+    },
+    {
+      "STT": 6,
+      "TenCot": "high_blood_pressure",
+      "SoGiaTriThieu": 5,
+      "TyLeThieuPhanTram": 1.62
+    },
+    {
+      "STT": 7,
+      "TenCot": "platelets",
+      "SoGiaTriThieu": 25,
+      "TyLeThieuPhanTram": 8.09
+    },
+    {
+      "STT": 8,
+      "TenCot": "serum_creatinine",
+      "SoGiaTriThieu": 25,
+      "TyLeThieuPhanTram": 8.09
+    },
+    {
+      "STT": 9,
+      "TenCot": "serum_sodium",
+      "SoGiaTriThieu": 26,
+      "TyLeThieuPhanTram": 8.41
+    },
+    {
+      "STT": 10,
+      "TenCot": "sex",
+      "SoGiaTriThieu": 25,
+      "TyLeThieuPhanTram": 8.09
+    },
+    {
+      "STT": 11,
+      "TenCot": "smoking",
+      "SoGiaTriThieu": 5,
+      "TyLeThieuPhanTram": 1.62
+    },
+    {
+      "STT": 12,
+      "TenCot": "time",
+      "SoGiaTriThieu": 5,
+      "TyLeThieuPhanTram": 1.62
+    },
+    {
+      "STT": 13,
+      "TenCot": "DEATH_EVENT",
+      "SoGiaTriThieu": 5,
+      "TyLeThieuPhanTram": 1.62
+    }
+  ],
+  [
+    {
+      "STT": 1,
+      "TenCot": "anaemia",
+      "GiaTriHienThi": "<NULL>",
+      "SoKyTu": null,
+      "SoLuong": 5
+    },
+    {
+      "STT": 1,
+      "TenCot": "anaemia",
+      "GiaTriHienThi": "[0]",
+      "SoKyTu": 1,
+      "SoLuong": 170
+    },
+    {
+      "STT": 1,
+      "TenCot": "anaemia",
+      "GiaTriHienThi": "[1]",
+      "SoKyTu": 1,
+      "SoLuong": 134
+    },
+    {
+      "STT": 2,
+      "TenCot": "diabetes",
+      "GiaTriHienThi": "<NULL>",
+      "SoKyTu": null,
+      "SoLuong": 5
+    },
+    {
+      "STT": 2,
+      "TenCot": "diabetes",
+      "GiaTriHienThi": "[0]",
+      "SoKyTu": 1,
+      "SoLuong": 179
+    },
+    {
+      "STT": 2,
+      "TenCot": "diabetes",
+      "GiaTriHienThi": "[1]",
+      "SoKyTu": 1,
+      "SoLuong": 125
+    },
+    {
+      "STT": 3,
+      "TenCot": "high_blood_pressure",
+      "GiaTriHienThi": "<NULL>",
+      "SoKyTu": null,
+      "SoLuong": 5
+    },
+    {
+      "STT": 3,
+      "TenCot": "high_blood_pressure",
+      "GiaTriHienThi": "[0]",
+      "SoKyTu": 1,
+      "SoLuong": 197
+    },
+    {
+      "STT": 3,
+      "TenCot": "high_blood_pressure",
+      "GiaTriHienThi": "[1]",
+      "SoKyTu": 1,
+      "SoLuong": 107
+    },
+    {
+      "STT": 4,
+      "TenCot": "sex",
+      "GiaTriHienThi": "<NULL>",
+      "SoKyTu": null,
+      "SoLuong": 25
+    },
+    {
+      "STT": 4,
+      "TenCot": "sex",
+      "GiaTriHienThi": "[0]",
+      "SoKyTu": 1,
+      "SoLuong": 82
+    },
+    {
+      "STT": 4,
+      "TenCot": "sex",
+      "GiaTriHienThi": "[1]",
+      "SoKyTu": 1,
+      "SoLuong": 160
+    },
+    {
+      "STT": 4,
+      "TenCot": "sex",
+      "GiaTriHienThi": "[F   ]",
+      "SoKyTu": 4,
+      "SoLuong": 1
+    },
+    {
+      "STT": 4,
+      "TenCot": "sex",
+      "GiaTriHienThi": "[Male   ]",
+      "SoKyTu": 7,
+      "SoLuong": 24
+    },
+    {
+      "STT": 4,
+      "TenCot": "sex",
+      "GiaTriHienThi": "[female]",
+      "SoKyTu": 6,
+      "SoLuong": 16
+    },
+    {
+      "STT": 4,
+      "TenCot": "sex",
+      "GiaTriHienThi": "[m]",
+      "SoKyTu": 1,
+      "SoLuong": 1
+    },
+    {
+      "STT": 5,
+      "TenCot": "smoking",
+      "GiaTriHienThi": "<NULL>",
+      "SoKyTu": null,
+      "SoLuong": 5
+    },
+    {
+      "STT": 5,
+      "TenCot": "smoking",
+      "GiaTriHienThi": "[0]",
+      "SoKyTu": 1,
+      "SoLuong": 207
+    },
+    {
+      "STT": 5,
+      "TenCot": "smoking",
+      "GiaTriHienThi": "[1]",
+      "SoKyTu": 1,
+      "SoLuong": 97
+    },
+    {
+      "STT": 6,
+      "TenCot": "DEATH_EVENT",
+      "GiaTriHienThi": "<NULL>",
+      "SoKyTu": null,
+      "SoLuong": 5
+    },
+    {
+      "STT": 6,
+      "TenCot": "DEATH_EVENT",
+      "GiaTriHienThi": "[0]",
+      "SoKyTu": 1,
+      "SoLuong": 204
+    },
+    {
+      "STT": 6,
+      "TenCot": "DEATH_EVENT",
+      "GiaTriHienThi": "[1]",
+      "SoKyTu": 1,
+      "SoLuong": 99
+    },
+    {
+      "STT": 6,
+      "TenCot": "DEATH_EVENT",
+      "GiaTriHienThi": "[2]",
+      "SoKyTu": 1,
+      "SoLuong": 1
+    }
+  ]
+]

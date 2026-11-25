@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "compared_rows": 1,
+  "compared_fields": [
+    "EFTruoc",
+    "sex",
+    "high_blood_pressure",
+    "CapNhom",
+    "SoMauCho",
+    "MedianNhom",
+    "EFDien"
+  ],
+  "observed_ejection_fraction_preserved": true,
+  "other_columns_preserved": true,
+  "before_sha256": "d14cfc3e65d5b7eb772bec919bef749de338ea7f63a509ee66c830dd3293e8c5"
+}

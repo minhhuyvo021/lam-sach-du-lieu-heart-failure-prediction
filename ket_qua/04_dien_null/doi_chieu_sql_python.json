@@ -1,0 +1,37 @@
+{
+  "status": "PASS",
+  "source_sha256": "d14cfc3e65d5b7eb772bec919bef749de338ea7f63a509ee66c830dd3293e8c5",
+  "checks": [
+    {
+      "comparison": "data",
+      "rows": 299,
+      "checked_values": 4784,
+      "mismatches": 0
+    },
+    {
+      "comparison": "logs_including_donor_sets",
+      "rows": 126,
+      "checked_values": 1764,
+      "mismatches": 0
+    },
+    {
+      "comparison": "masked_validation_cases",
+      "rows": 396,
+      "checked_values": 2376,
+      "mismatches": 0
+    },
+    {
+      "comparison": "rule_summary",
+      "rows": 7,
+      "checked_values": 49,
+      "mismatches": 0
+    },
+    {
+      "comparison": "validation_metrics",
+      "rows": 7,
+      "checked_values": 63,
+      "mismatches": 0
+    }
+  ],
+  "note": "Comparison uses automatically computed record keys after canonical normalization. SQL record_no is internal and is not compared with Python CSV line numbers. SQL import trimmed leading spaces in observed sex strings."
+}

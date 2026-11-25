@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "rows_compared": 299,
+  "method": "Five equal-width bins, mean per bin, new values rounded to 2 decimals",
+  "bin_counts": [
+    51,
+    210,
+    34,
+    2,
+    2
+  ],
+  "min": "25100.000000",
+  "max": "850000.000000",
+  "width": "164980.000000",
+  "all_rows_assigned_once": true,
+  "maximum_included_in_last_bin": true,
+  "other_columns_preserved": true
+}

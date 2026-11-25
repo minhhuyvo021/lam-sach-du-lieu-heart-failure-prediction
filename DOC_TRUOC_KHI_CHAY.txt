@@ -1,0 +1,54 @@
+BỘ NỘP ĐỒ ÁN PHÂN TÍCH DỮ LIỆU CƠ BẢN
+Võ Minh Huy — 2311110117
+Giảng viên: Lê Văn Hạnh — Ngày báo cáo: 04/11/2026
+
+1. THÀNH PHẦN
+VoMinhHuy_DoAn.docx: báo cáo chính, đã cập nhật kết luận và 15 đồ thị.
+4 CSV: original, before, after_SQL và after_Python.
+python/: 39 Jupyter Notebook và 3 file .py phụ thuộc cần thiết.
+query_dataanalyst.sql: toàn bộ truy vấn tiền xử lý và phân tích thực hiện trong SQL Server (VS Code MSSQL).
+sql/: các truy vấn từng phần, thống kê sau xử lý và script xuất after.
+ket_qua/: kết quả trung gian, bảng thống kê, đồ thị và minh chứng đã lưu.
+DanYMonHoc.pdf và MoTaCauTrucDuLieu.png: tài liệu đề bài, đối chiếu cùng báo cáo.
+
+2. CHẠY PYTHON
+Giải nén toàn bộ gói trước khi chạy; giữ cấu trúc thư mục.
+Mở thư mục bộ nộp trong VS Code/Jupyter, chọn kernel Python có numpy, pandas,
+matplotlib, ipykernel. Cài thư viện nếu cần: python -m pip install -r requirements.txt
+Thư mục làm việc của notebook có thể là thư mục gốc hoặc python/.
+Chạy Run All trong từng notebook theo thứ tự phần việc.
+Đồ thị nằm ở notebook 25 đến 39; kết quả tiền xử lý đã có trong ket_qua/.
+
+Không xóa ba file .py sau:
+- 01_kiem_tra_du_lieu.py: notebook 01 gọi thuật toán khảo sát trong file này.
+- 04_dien_null.py: notebook 04 gọi quy trình điền thiếu tổng hợp trong file này.
+- 22_xuat_after.py: notebook 22 dùng để ghép kết quả và đối chiếu hai after.
+Notebook 04 là bản tổng hợp bổ sung; notebook 05–11 trình bày từng quy tắc
+N01–N07 đúng với minh chứng từng phần trong báo cáo.
+Các file .py dựng/chỉnh Word, __pycache__ và bản Word cũ không đưa vào bộ nộp.
+Chạy lại notebook có thể cập nhật file kết quả trong ket_qua/ và after_Python;
+original và before phải được giữ nguyên.
+
+3. CHẠY SQL
+Cần SQL Server (khởi chạy qua docker compose up -d) và VS Code (extension MSSQL). Cơ sở dữ liệu dùng trong bài là HeartFailure_DoAn.
+Nhập before vào dbo.heart_before_raw dạng nvarchar(50), cho phép NULL trên
+cả 13 cột để không làm mất chuỗi Invalid_Age.
+Các bước dùng bảng tạm phải chạy trong cùng tab/kết nối SQL.
+query_dataanalyst.sql có các bước EF và tổng hợp tám nhóm; hai file SQL rỗng
+03h_dien_null_ejection_fraction.sql và 08b_giam_so_dong_tong_hop.sql được bỏ
+khỏi gói vì không chứa code. Không xem các file từng phần là một pipeline tự
+động; xem hướng dẫn/comment đầu mỗi file và bản truy vấn tổng hợp.
+sql/10_xuat_after.sh là công cụ xuất SQL thuần macOS/Linux, kết nối container sql_doan (localhost,1433, user sa); chỉnh biến môi trường MSSQL_SA_PASSWORD nếu đổi mật khẩu.
+Thống kê sau xử lý dùng bảng dbo.heart_after nhập từ after_SQL như báo cáo.
+
+4. ĐỌC KẾT QUẢ
+After có 299 hồ sơ, 18 cột kể cả MaHoSo; 298 nhãn hợp lệ và 1 nhãn chờ xác minh.
+MaHoSo là số thứ tự nội bộ, có thể khác giữa SQL và Python.
+Hai CSV after khớp 5.083 giá trị dữ liệu, không tính MaHoSo.
+Bảng SQL nhập lại bằng float có sai số hiển thị nhỏ đã nêu trong báo cáo.
+Hai cột platelets làm mịn là hai phép độc lập; cột platelets làm sạch vẫn giữ.
+
+5. LƯU Ý NỘP
+Dàn ý yêu cầu original, before, after. Bài có hai cách thực hiện nên giữ hai
+file after_SQL và after_Python để giảng viên đối chiếu. Đây là gói để nộp;
+không kèm môi trường Python, thư viện cài sẵn, mật khẩu hoặc bản Word cũ.

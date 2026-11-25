@@ -1,0 +1,8 @@
+﻿rule_id,column,missing_in_prepared_copy,observed_global_donors,primary_groups,smallest_primary_group,largest_primary_group,primary_groups_below_5
+N01,sex,20,279,16,2,32,1
+N02,age,23,276,4,45,103,0
+N03,creatinine_phosphokinase,21,278,8,14,41,0
+N04,platelets,20,279,4,43,104,0
+N05,serum_creatinine,20,279,8,12,58,0
+N06,serum_sodium,21,278,8,17,48,0
+N07,ejection_fraction,1,298,4,44,123,0

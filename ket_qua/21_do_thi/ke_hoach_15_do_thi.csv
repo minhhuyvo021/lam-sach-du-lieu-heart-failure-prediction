@@ -1,0 +1,16 @@
+﻿STT,LoaiDoThi,NoiDung,DuLieuTongHop,SoHoSoDuKien,TrangThai
+1,Histogram,Phan bo tuoi,Khong,299,Hoan thanh Python va Word
+2,Boxplot,Phan bo ejection_fraction,Khong,299,Hoan thanh Python va Word
+3,Histogram,Phan bo serum_creatinine,Khong,299,Hoan thanh Python va Word
+4,KDE,Mat do platelets gioi han mien khong am,Khong,299,Hoan thanh Python va Word
+5,ECDF,Phan phoi tich luy CPK,Khong,299,Hoan thanh Python va Word
+6,Scatter,EF va creatinine phan mau theo DEATH_EVENT,Khong,298,Hoan thanh Python va Word
+7,Violin,Phan bo tuoi theo gioi tinh,Khong,299,Hoan thanh Python va Word
+8,Heatmap,Tuong quan giua sau chi so dinh luong,Khong,299,Hoan thanh Python va Word
+9,Bar,So ho so theo nhan 0 va 1 va chua xac minh,Co,299,Hoan thanh Python va Word
+10,Bar,So ho so co tung tien su anaemia diabetes high_blood_pressure smoking,Co,299,Hoan thanh Python va Word
+11,Stacked bar,So ho so theo nhom tuoi va nhan ket qua,Co,299,Hoan thanh Python va Word
+12,Line,EF trung binh theo bon nhom tuoi,Co,299,Hoan thanh Python va Word
+13,Heatmap,Ty le DEATH_EVENT=1 theo nhom tuoi va gioi tinh kem co mau,Co,298,Hoan thanh Python va Word
+14,Bubble,EF va creatinine trung binh cua tam nhom tuoi gioi tinh kich thuoc theo so ho so,Co,299,Hoan thanh Python va Word
+15,Pie,Ty trong gioi tinh,Co,299,Hoan thanh Python va Word

@@ -1,0 +1,9 @@
+{
+  "so_ho_so": 299,
+  "so_bien_dinh_luong": 9,
+  "so_dong_tan_suat": 45,
+  "tan_suat_khop_SQL": true,
+  "so_chi_tieu_dinh_luong_chenh": 9,
+  "chenh_lech_hien_thi_lon_nhat": "0.01",
+  "ghi_chu": "SQL dùng bảng import float; Python dùng số thập phân từ CSV. Không khẳng định thống kê khớp tuyệt đối."
+}

@@ -1,0 +1,10 @@
+﻿TenCot,ChiTieu,SQL,Python,ChenhLechTuyetDoi
+platelets,Median_Q2,259763.44,259763.43,0.01
+platelets_mean_5_nhom,Mean,263868.73,263868.72,0.01
+platelets_mean_5_nhom,ModeNhoNhat,261884.05,261884.04,0.01
+platelets_mean_5_nhom,Median_Q2,261884.05,261884.04,0.01
+platelets_mean_5_nhom,Min,142198.05,142198.04,0.01
+platelets_mean_5_nhom,Q1,261884.05,261884.04,0.01
+platelets_mean_5_nhom,Q3,261884.05,261884.04,0.01
+platelets_dieu_chinh_10pct,Median_Q2,259763.44,259763.43,0.01
+platelets_dieu_chinh_10pct,StdMau,90115.07,90115.08,0.01

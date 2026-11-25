@@ -1,0 +1,14 @@
+﻿STT,TenCot,SoGiaTriThieu,TyLeThieuPhanTram
+1,age,26,8.41
+2,anaemia,5,1.62
+3,creatinine_phosphokinase,25,8.09
+4,diabetes,5,1.62
+5,ejection_fraction,5,1.62
+6,high_blood_pressure,5,1.62
+7,platelets,25,8.09
+8,serum_creatinine,25,8.09
+9,serum_sodium,26,8.41
+10,sex,25,8.09
+11,smoking,5,1.62
+12,time,5,1.62
+13,DEATH_EVENT,5,1.62

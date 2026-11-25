@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "summary_agrees": true,
+  "frequency_rows_compared": 6,
+  "records_retained": 299,
+  "valid_labels": 298,
+  "pending_labels": 1,
+  "true_label_recovered": false
+}

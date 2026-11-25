@@ -1,0 +1,2422 @@
+[
+  {
+    "path": "docker-compose.yml",
+    "size": 396,
+    "sha256": "e4602b4f13209b79cff55d5756da085d5bfde9300c0efb4e0d01b61405e0091b"
+  },
+  {
+    "path": "DanYMonHoc.pdf",
+    "size": 340351,
+    "sha256": "01cf7dae1976515a564fcd960334626891b54fceb1a0e0185af62e931e005451"
+  },
+  {
+    "path": "DOC_TRUOC_KHI_CHAY.txt",
+    "size": 3829,
+    "sha256": "14e0d176c95c8333d7a67d217d2fb7fbec00ab15ed013dc84f31dd08f6b9127c"
+  },
+  {
+    "path": "heart_failure_clinical_records_dataset_original.csv",
+    "size": 12239,
+    "sha256": "9c73cea7468ff5d517801ec050fe9993da5912fce4b56f296f8df3b38dd75912"
+  },
+  {
+    "path": "ket_qua/00_nhap_du_lieu/kiem_tra_python.json",
+    "size": 83,
+    "sha256": "cfc506b23b8bafe8497426445ade74d3ad08aa0af4f6fc4f8a3347adb4b989fd"
+  },
+  {
+    "path": "ket_qua/00_nhap_du_lieu/minh_chung_python_nen_trang.png",
+    "size": 106671,
+    "sha256": "f8703569aa4efc0ff615b40f8741fd328087d4456bc5d74358cb8918a9d95047"
+  },
+  {
+    "path": "ket_qua/00_nhap_du_lieu/minh_chung_sql_309_1.png",
+    "size": 180067,
+    "sha256": "ee13551f4b0447baff58c2e87bf8305335e4e8a94479117244f348a314e1e991"
+  },
+  {
+    "path": "ket_qua/01_khao_sat/doi_chieu_tung_o.csv",
+    "size": 33146,
+    "sha256": "67a6033e8ffee0816dd9e5ff69289e6f77e4d346f47b94bb3caf4a7f1cd33dd4"
+  },
+  {
+    "path": "ket_qua/01_khao_sat/tan_suat_nhi_phan.csv",
+    "size": 1646,
+    "sha256": "7936ab24117e752d31deaad6761c42a10f1b00b72325ca2b65ada192c6a8060f"
+  },
+  {
+    "path": "ket_qua/01_khao_sat/thay_doi_can_luu_y.csv",
+    "size": 467,
+    "sha256": "f0d8275ae8baf979ffe7e18cc572fcf2c4f681fd62dafdb1746d6eb23cef4e85"
+  },
+  {
+    "path": "ket_qua/01_khao_sat/thong_ke_chat_luong.csv",
+    "size": 2097,
+    "sha256": "5fef8c8685104724a964c891a2610a79935a74ccad3057926fa85ec9b6530165"
+  },
+  {
+    "path": "ket_qua/01_khao_sat/tong_quan.json",
+    "size": 1343,
+    "sha256": "fa811cd00aa5c68abe458b6483cdff8efb97674e82a484517b700ee3679bb4c8"
+  },
+  {
+    "path": "ket_qua/01_khao_sat/trung_lap_nguyen_trang.csv",
+    "size": 48,
+    "sha256": "33a0f34e115d98682fc68684fc2c5c027c15282a877b73ff9188a2cdb5d64659"
+  },
+  {
+    "path": "ket_qua/01_khao_sat/trung_lap_sau_chuan_hoa.csv",
+    "size": 62,
+    "sha256": "67042ad97cabd15d83ddc37744b765ca1762724f01078932a9f2405021993867"
+  },
+  {
+    "path": "ket_qua/01_khao_sat/tu_dien_du_lieu.csv",
+    "size": 2434,
+    "sha256": "a0149b62e358c5979e585715c5394a448c40d2533253ddcf62bc48fcf6d0905c"
+  },
+  {
+    "path": "ket_qua/02_khao_sat_3a/doi_chieu_sql_python.json",
+    "size": 1015,
+    "sha256": "b9faaeba4c29ed62bc56a9e4e79849901a2ae3d9d53bfbdf106fd743de08c19c"
+  },
+  {
+    "path": "ket_qua/02_khao_sat_3a/doi_chieu_tan_suat_chi_tiet.csv",
+    "size": 820,
+    "sha256": "30adb10e8cabe1cbcd46a7439cac77a7fafb31e6f797fc96e0da0752cdb8b3ec"
+  },
+  {
+    "path": "ket_qua/02_khao_sat_3a/gia_tri_thieu_python.csv",
+    "size": 326,
+    "sha256": "20eda3a9c75189d2867b192332c1ef35633d58071a643f0af7d02e4fad6e4083"
+  },
+  {
+    "path": "ket_qua/02_khao_sat_3a/gia_tri_thieu_sql.csv",
+    "size": 340,
+    "sha256": "306004ea65188653f4cfee944c7bb85c82050cedc8ca553cad0b8645fb747b4a"
+  },
+  {
+    "path": "ket_qua/02_khao_sat_3a/ket_qua_sql.json",
+    "size": 6793,
+    "sha256": "896fb94eedba07eb2ee27a8babffeac0539c0593cd7486a1faf94f6a8de8e5f9"
+  },
+  {
+    "path": "ket_qua/02_khao_sat_3a/kieu_du_lieu_python.csv",
+    "size": 625,
+    "sha256": "6a2fd67cf7c43e9f4334c9390681822ec9554cd0ef4227c3cf363ecaf401a879"
+  },
+  {
+    "path": "ket_qua/02_khao_sat_3a/kieu_du_lieu_sql.csv",
+    "size": 453,
+    "sha256": "4a1d97ebd3136061d793b2de92c0a111ed16e4c82e627f1f87d1573f5c90c542"
+  },
+  {
+    "path": "ket_qua/02_khao_sat_3a/minh_chung/python_bang_tan_suat.png",
+    "size": 44887,
+    "sha256": "397e385021a1d37483b784c55a38d4e67dcd911849dca2935fd39a0b82fb07d3"
+  },
+  {
+    "path": "ket_qua/02_khao_sat_3a/minh_chung/python_code_tan_suat.png",
+    "size": 66933,
+    "sha256": "5f3fc2836b7c3b245570c3297372a53fcec330e58d90b90165e0e9f5f1407a4d"
+  },
+  {
+    "path": "ket_qua/02_khao_sat_3a/minh_chung/python_gia_tri_thieu.png",
+    "size": 87335,
+    "sha256": "814d62a79cecbad8c72cc144e6120c684203b54899e4c94bbc51f9be7d21f3af"
+  },
+  {
+    "path": "ket_qua/02_khao_sat_3a/minh_chung/python_kieu_luu_tru.png",
+    "size": 91927,
+    "sha256": "b2f7837ca8dfffc26a4b295c1b75e36a981fcd3dc44987d6a9c01c08379055ec"
+  },
+  {
+    "path": "ket_qua/02_khao_sat_3a/minh_chung/python_luu_ket_qua.png",
+    "size": 47124,
+    "sha256": "1bcc6b2356660e1dbd197d7874785b320b89b4e1a92392323c83e6883853af92"
+  },
+  {
+    "path": "ket_qua/02_khao_sat_3a/minh_chung/python_sex_death_event.png",
+    "size": 65480,
+    "sha256": "bbd2f2fe23d3866f37807eeab7643f1afb5dd40ff97d4e82286b5742d6fa8e9a"
+  },
+  {
+    "path": "ket_qua/02_khao_sat_3a/minh_chung/python_tong_quan.png",
+    "size": 81682,
+    "sha256": "390158ff8d2365c75573c8b562afc2ea7d9c77f91f2fa0ea5e2c4cf648f6d8f3"
+  },
+  {
+    "path": "ket_qua/02_khao_sat_3a/minh_chung/sql_tan_suat_nhi_phan.png",
+    "size": 189595,
+    "sha256": "ba263f3b02451c6cbca09870187589a0483543a2599c591a0bda7a4acd7c18bc"
+  },
+  {
+    "path": "ket_qua/02_khao_sat_3a/minh_chung/sql_tong_quan_kieu_du_lieu_gia_tri_thieu.png",
+    "size": 154567,
+    "sha256": "d4ff39304679d217227e074f191d08b57212f2b3ece61f9b38054594554e2d35"
+  },
+  {
+    "path": "ket_qua/02_khao_sat_3a/tan_suat_python.csv",
+    "size": 541,
+    "sha256": "a0057906f1e2f19f5a79fecfeff4efd63489568f7d6284c2f4e7e2c0ef25c2d9"
+  },
+  {
+    "path": "ket_qua/02_khao_sat_3a/tan_suat_sql.csv",
+    "size": 592,
+    "sha256": "dc8aa3ae8b52e2394d9df20cac0b20dab2f2404de1f97d8078313496d651b081"
+  },
+  {
+    "path": "ket_qua/02_khao_sat_3a/tong_quan_python.csv",
+    "size": 31,
+    "sha256": "ee95d9bde4313add9800cbc54280a1738230f0ae3e859160f6bc04c6a694dadb"
+  },
+  {
+    "path": "ket_qua/02_khao_sat_3a/tong_quan_sql.csv",
+    "size": 33,
+    "sha256": "40a1fb9b123df45244a5389830633497d062a5c9a20bae9e0bfce52aaed48428"
+  },
+  {
+    "path": "ket_qua/03_quy_tac_null/chi_tiet_nhom_cho.csv",
+    "size": 3217,
+    "sha256": "8d059a3039517d81bd50d2c72f8f97df005d211ff78e6611e2bebb8538c71238"
+  },
+  {
+    "path": "ket_qua/03_quy_tac_null/danh_gia_nhom_cho.csv",
+    "size": 397,
+    "sha256": "817424be246b9a720bddc4d21c8184c024667b5520319b85e85fa01535806674"
+  },
+  {
+    "path": "ket_qua/03_quy_tac_null/quy_tac_de_xuat.json",
+    "size": 3663,
+    "sha256": "0c6bffe56553f9843077e6af4d46733a9fa688213996bb3720528890af096787"
+  },
+  {
+    "path": "ket_qua/04_dien_null/chuan_bi_python.csv",
+    "size": 160,
+    "sha256": "fe2846706757ede75bf7af2bc2e483bbaec70ccfd0909c67f78e2766c5f5080e"
+  },
+  {
+    "path": "ket_qua/04_dien_null/danh_sach_che_python.csv",
+    "size": 46541,
+    "sha256": "b1eac7d43488067cf1057ba639572ba83462fb59ef82f3a750cfce678bba677a"
+  },
+  {
+    "path": "ket_qua/04_dien_null/doi_chieu_sql_python.json",
+    "size": 1007,
+    "sha256": "64ede14656bd0db676586bbd775deec1aa5accea14c9ce39a702f8304689c7eb"
+  },
+  {
+    "path": "ket_qua/04_dien_null/du_lieu_sau_dien_python.csv",
+    "size": 61826,
+    "sha256": "af4e27b1559d9e6ca37b8b3cfaba7f0ba157b394e33576f001d13e0d59560ac2"
+  },
+  {
+    "path": "ket_qua/04_dien_null/du_lieu_truoc_dien_python.csv",
+    "size": 61139,
+    "sha256": "2df1708ee7f7c8f4f27d505070ae3c953ab28a169c02a84925e3c2e272c8fa5d"
+  },
+  {
+    "path": "ket_qua/04_dien_null/ho_so_sao_chep_python.csv",
+    "size": 411,
+    "sha256": "7c6cf962432764b7a2d9057d7c24c2a7b058e30ce3fad0d0890a6eab06a9e7a5"
+  },
+  {
+    "path": "ket_qua/04_dien_null/ket_qua_sql.json",
+    "size": 379269,
+    "sha256": "a3b6403e09b4b3f1fab8b912148d8e51c309b3815123b1105c22f2cd3b3129ba"
+  },
+  {
+    "path": "ket_qua/04_dien_null/kiem_chung_che_20_phan_tram_python.csv",
+    "size": 624,
+    "sha256": "6d05b7449a2886cafea3fc20b5e7dda6ae6d7850f5fc3f2679fe87475090a46d"
+  },
+  {
+    "path": "ket_qua/04_dien_null/nhat_ky_dien_python.csv",
+    "size": 30979,
+    "sha256": "51bbc702362c9bf08be93abf6aad0ab235ac0558fb60fe4f3e64c6ce575d39aa"
+  },
+  {
+    "path": "ket_qua/04_dien_null/thong_tin_lan_chay.json",
+    "size": 461,
+    "sha256": "19539332de289a44fd4fccad06ac4713a8c79513930f724ea8b5f2172eb07603"
+  },
+  {
+    "path": "ket_qua/04_dien_null/tong_hop_quy_tac_python.csv",
+    "size": 303,
+    "sha256": "70b03006df816dedf0f6fb5e4933d2c584abe0b4ba6be25a80c01b36de8baf8f"
+  },
+  {
+    "path": "ket_qua/05_dien_sex/minh_chung/python_chuan_bi_sex.png",
+    "size": 108086,
+    "sha256": "ca1355e8f6bb68bcba7e32392072af5aaec736eb8b50cf60f587197e3f7ac7ef"
+  },
+  {
+    "path": "ket_qua/05_dien_sex/minh_chung/python_dien_sex.png",
+    "size": 86091,
+    "sha256": "02eaddfbf0f4a77e059f43dd2a68068352c7328dbd8c7ed005ab74ffdcc285cb"
+  },
+  {
+    "path": "ket_qua/05_dien_sex/minh_chung/python_luu_sex.png",
+    "size": 37024,
+    "sha256": "74f457fd97bc3601720720306fc8fd54733c7c81b8fb724714b2aaede11684ae"
+  },
+  {
+    "path": "ket_qua/05_dien_sex/minh_chung/python_nhat_ky_sex.png",
+    "size": 64170,
+    "sha256": "976e49341e509445e71553360ceaaf9ce1e998fa6bfc699c4f5a720e824ed472"
+  },
+  {
+    "path": "ket_qua/05_dien_sex/minh_chung/sql_chuan_bi_sex.png",
+    "size": 173127,
+    "sha256": "13edc1a0806a18d067295abaa0befefceab13fc93878c7ab8cbe9093bf9e14ba"
+  },
+  {
+    "path": "ket_qua/05_dien_sex/minh_chung/sql_ket_qua_sex.png",
+    "size": 164994,
+    "sha256": "cfca857c35730771dcc0f0c33b0ae4852b431523f09646eaec1db8c3da50e34e"
+  },
+  {
+    "path": "ket_qua/05_dien_sex/nhat_ky_python.csv",
+    "size": 1155,
+    "sha256": "9d87d95a4f057b37ed961d52082501faaf78044e2025cdd147e33a772ff7cd0c"
+  },
+  {
+    "path": "ket_qua/05_dien_sex/nhat_ky_sql.csv",
+    "size": 1386,
+    "sha256": "48f20975228c9badc7a55cb54c080d1322da823d8f1cb8804a36e3d97802d4e5"
+  },
+  {
+    "path": "ket_qua/05_dien_sex/tong_ket_python.csv",
+    "size": 70,
+    "sha256": "554cbef8c940278f0eeca05be0f0c933ccdb08227568b05fd2133322cdc49ea7"
+  },
+  {
+    "path": "ket_qua/06_dien_age/ban_lam_viec_sau_age_python.csv",
+    "size": 39021,
+    "sha256": "f16f1c3ab4975bd5ded1c907a4f6f2657e6a7c75ca35f1602f7ba9eb7569e381"
+  },
+  {
+    "path": "ket_qua/06_dien_age/doi_chieu_sql_python.json",
+    "size": 353,
+    "sha256": "06965cdce98edc4e6c626b0efb61aabb3334fd2d5f02c1cbe0d8e295133bd5bc"
+  },
+  {
+    "path": "ket_qua/06_dien_age/kiem_tra_sql.json",
+    "size": 219,
+    "sha256": "a21a2ff3e76ed20a3ee5c7ba52989fa64db67c4103b72eaa467be47e9816588a"
+  },
+  {
+    "path": "ket_qua/06_dien_age/minh_chung/python_chuan_bi_age.png",
+    "size": 83375,
+    "sha256": "feafc361c3039d3bbc12c96ec4360ce5db3d9b06e1eb0ada2d421e30584b9078"
+  },
+  {
+    "path": "ket_qua/06_dien_age/minh_chung/python_dien_age.png",
+    "size": 107435,
+    "sha256": "a18c717483523ac96b0f50dee97d115f7a0643d7e88a0bd5c4eb95820e086700"
+  },
+  {
+    "path": "ket_qua/06_dien_age/minh_chung/python_luu_age.png",
+    "size": 46111,
+    "sha256": "5052504c886da547d82dc954eaf7f922ca0c86638e2d18b4078d37618cc10cea"
+  },
+  {
+    "path": "ket_qua/06_dien_age/minh_chung/python_nhat_ky_age.png",
+    "size": 100605,
+    "sha256": "0c8be7a4a0524a8d2a31929f770992783d823a88475b447d264e963758f72dca"
+  },
+  {
+    "path": "ket_qua/06_dien_age/minh_chung/python_tai_chuan_bi.png",
+    "size": 77244,
+    "sha256": "2ed0bbd6c60922ad67c5fca2e9b4261633b342bd22f6d21b1ff60d0996dabf99"
+  },
+  {
+    "path": "ket_qua/06_dien_age/minh_chung/python_tai_dien_sex.png",
+    "size": 62057,
+    "sha256": "ff6a98c5a34deb05717c273994e923e4ec227c301d756067423ea8543118ffc5"
+  },
+  {
+    "path": "ket_qua/06_dien_age/minh_chung/sql_dien_age.png",
+    "size": 181849,
+    "sha256": "c159e6364eda08959b9c50ed90d4cfce84daa2145967378fedf3360d31187a79"
+  },
+  {
+    "path": "ket_qua/06_dien_age/nhat_ky_python.csv",
+    "size": 1619,
+    "sha256": "5225905fdf8e5bb2a6705eecb554ce7e071b013fdd2fa5cee477fb545576d902"
+  },
+  {
+    "path": "ket_qua/06_dien_age/nhat_ky_sql.csv",
+    "size": 2053,
+    "sha256": "d157e8875f6035cf9da9fcd3abba9623a566aeb38c0c288bf1c04eaef2fe7218"
+  },
+  {
+    "path": "ket_qua/06_dien_age/tong_ket_python.csv",
+    "size": 96,
+    "sha256": "4256e7e3fec131fae604c63e03b52d6f8a647448ab3f8eaba102b7e0c702460a"
+  },
+  {
+    "path": "ket_qua/07_dien_cpk/ban_lam_viec_sau_cpk_python.csv",
+    "size": 39979,
+    "sha256": "9574870f4da090eeb57494c208399520de9879f6e792654bdda06e0d6bfeee4c"
+  },
+  {
+    "path": "ket_qua/07_dien_cpk/doi_chieu_sql_python.json",
+    "size": 367,
+    "sha256": "449410f9139d82eb9fd3d84852964a7754b1a5aef4276de99a8a12d0bae9a322"
+  },
+  {
+    "path": "ket_qua/07_dien_cpk/kiem_tra_sql.json",
+    "size": 225,
+    "sha256": "9cfb2e67460a45217e635a69ad4e6a17f3f6b2ddf4f170e591f8d5310288ad0b"
+  },
+  {
+    "path": "ket_qua/07_dien_cpk/minh_chung/python_chuan_bi_cpk.png",
+    "size": 97442,
+    "sha256": "8c6ab5f7553efac3dd27996d0ab998d0dada8ae62cb8b6162e88add573bf8f9d"
+  },
+  {
+    "path": "ket_qua/07_dien_cpk/minh_chung/python_dien_cpk.png",
+    "size": 104489,
+    "sha256": "a6345bcd1adef807b59cdd22495f60bd8e3ce59b5576c239d95c3187d77377e4"
+  },
+  {
+    "path": "ket_qua/07_dien_cpk/minh_chung/python_luu_cpk.png",
+    "size": 45195,
+    "sha256": "252f13607c8d3a0b2899504af217d9b42bfb15dbf7e897453e8f6a63d510406f"
+  },
+  {
+    "path": "ket_qua/07_dien_cpk/minh_chung/python_nhat_ky_cpk.png",
+    "size": 105128,
+    "sha256": "8a8170af59cc97a246e1199086c597c95ddfff86971f320bf7a0aa88c1d7c7f9"
+  },
+  {
+    "path": "ket_qua/07_dien_cpk/minh_chung/python_tai_chuan_bi.png",
+    "size": 75717,
+    "sha256": "a3e463d9b96ac2cc97dbeb9329f9ed8bc96d4d331cb084fb7a5921c4c7e1392f"
+  },
+  {
+    "path": "ket_qua/07_dien_cpk/minh_chung/python_tai_chuan_bi_age.png",
+    "size": 55666,
+    "sha256": "5b2a7372e9ae3502ac32916605817a76703fefdece4069b35afcb99c6e67a760"
+  },
+  {
+    "path": "ket_qua/07_dien_cpk/minh_chung/python_tai_dien_age.png",
+    "size": 77577,
+    "sha256": "d93aad77670b935cfafe481d1132c2f49d5686fd8544bdb390e8ca4da1fd99e1"
+  },
+  {
+    "path": "ket_qua/07_dien_cpk/minh_chung/python_tai_dien_sex.png",
+    "size": 63166,
+    "sha256": "fdf4caeb1cd193ec1daa9228b6b983a3e1e2b28a77a3c21c2a55a8e3fed06be9"
+  },
+  {
+    "path": "ket_qua/07_dien_cpk/minh_chung/sql_dien_cpk.png",
+    "size": 215740,
+    "sha256": "f51b0bb13196586ef0ba17df0b369ca2e428261ee9766c23bc604953794ffec1"
+  },
+  {
+    "path": "ket_qua/07_dien_cpk/nhat_ky_python.csv",
+    "size": 1543,
+    "sha256": "66692c26c5c043c000e1e8f0531e0a85a4ec70fef27be855f969c3832838c21a"
+  },
+  {
+    "path": "ket_qua/07_dien_cpk/nhat_ky_sql.csv",
+    "size": 2014,
+    "sha256": "7505095a3856b4e03a6b2f4f4c2e9f910d87034bb408e500555ddb3e1bc1321a"
+  },
+  {
+    "path": "ket_qua/07_dien_cpk/tong_ket_python.csv",
+    "size": 95,
+    "sha256": "aaaeaed1cb1eb361de917a658a9c52bea7ec5e8187c33654c495d3b518551d67"
+  },
+  {
+    "path": "ket_qua/08_dien_platelets/ban_lam_viec_sau_platelets_python.csv",
+    "size": 40159,
+    "sha256": "2b0ec086693f6a86b1fd97c71580464155bd1af221b509c64e89bce04a429605"
+  },
+  {
+    "path": "ket_qua/08_dien_platelets/doi_chieu_sql_python.json",
+    "size": 365,
+    "sha256": "c871dc28784a08c56f3497e26ab8cd4a7124c6d7ddd4850b3e34f3d53ecb61ea"
+  },
+  {
+    "path": "ket_qua/08_dien_platelets/kiem_tra_sql.json",
+    "size": 243,
+    "sha256": "62cd3440fc39bb444102e2cae935d227d7d770618faa2ec8a311d3e590c77e8a"
+  },
+  {
+    "path": "ket_qua/08_dien_platelets/minh_chung/python_chuan_bi_platelets.png",
+    "size": 63886,
+    "sha256": "d3c2591804d475a47c9b16ad8eb006cdeb2ff825ae15cc6727b03abbd434dd37"
+  },
+  {
+    "path": "ket_qua/08_dien_platelets/minh_chung/python_dien_platelets.png",
+    "size": 110201,
+    "sha256": "1dce37fe0e354cda85a61befd8c990ed59e7b74161afbdbf827ad9afd1bed93e"
+  },
+  {
+    "path": "ket_qua/08_dien_platelets/minh_chung/python_luu_platelets.png",
+    "size": 50258,
+    "sha256": "7bd1b86a6dec76344f2944738b5a0b7ff45877dc91a25b703b5b8a7536123e40"
+  },
+  {
+    "path": "ket_qua/08_dien_platelets/minh_chung/python_nhat_ky_platelets.png",
+    "size": 92775,
+    "sha256": "641aca9dbf028b0c9dccbd09f4162341c77d9fb9cbcf4d4fefb08e95ee2817ff"
+  },
+  {
+    "path": "ket_qua/08_dien_platelets/minh_chung/python_tai_chuan_bi.png",
+    "size": 75107,
+    "sha256": "470273eb712d2afbeef02f0932a024ff92b8367281c55bad617991173f3b61e4"
+  },
+  {
+    "path": "ket_qua/08_dien_platelets/minh_chung/python_tai_chuan_bi_age.png",
+    "size": 55738,
+    "sha256": "68b0a9a2c4c08a375d791f3066e6f21037c83dbe79db2c90a73fe3aea5e61d28"
+  },
+  {
+    "path": "ket_qua/08_dien_platelets/minh_chung/python_tai_chuan_bi_cpk.png",
+    "size": 71418,
+    "sha256": "c5595fb89961654030fd5179374484bc5dbf0fe0b56759f3bf3775ea1af27ce3"
+  },
+  {
+    "path": "ket_qua/08_dien_platelets/minh_chung/python_tai_dien_age.png",
+    "size": 79978,
+    "sha256": "3829cefb319d943df9bec436b3dc58cd71d4617fb77b26b3e5caf2f9710f2d4a"
+  },
+  {
+    "path": "ket_qua/08_dien_platelets/minh_chung/python_tai_dien_cpk.png",
+    "size": 76616,
+    "sha256": "262c2609af269f6d627c140e3777f8fedb712b39026805c8b2f5252112b60577"
+  },
+  {
+    "path": "ket_qua/08_dien_platelets/minh_chung/python_tai_dien_sex.png",
+    "size": 62750,
+    "sha256": "fd3188215f8bb873cc9e4c7d2fa80a8b932543a97de3caa2ad9f7170bc6e0657"
+  },
+  {
+    "path": "ket_qua/08_dien_platelets/minh_chung/sql_dien_platelets.png",
+    "size": 210359,
+    "sha256": "e0a254df4451dd9d47ec440aed61bb678b889461fda762f1f3f84f203c481a46"
+  },
+  {
+    "path": "ket_qua/08_dien_platelets/nhat_ky_python.csv",
+    "size": 1203,
+    "sha256": "3ef8e1c2ddfbf2c2497182440313b3e888d2d8889d3627d6f3fc7cd9cde66d88"
+  },
+  {
+    "path": "ket_qua/08_dien_platelets/nhat_ky_sql.csv",
+    "size": 1556,
+    "sha256": "913f16126201b2bb6e9b1b840f385faf82af3f77ee02a00a315161d5d5dcbe8e"
+  },
+  {
+    "path": "ket_qua/08_dien_platelets/tong_ket_python.csv",
+    "size": 82,
+    "sha256": "d6f16f6fa56c5a26291edce149afd6356fcc9e40986ef4673f9d0b1607e657cd"
+  },
+  {
+    "path": "ket_qua/09_dien_serum_creatinine/ban_lam_viec_sau_creatinine_python.csv",
+    "size": 40239,
+    "sha256": "279f92011720b45b95f0826570c4ef8fd904a39aa4ffd5c5cd82c211703dfd6a"
+  },
+  {
+    "path": "ket_qua/09_dien_serum_creatinine/doi_chieu_sql_python.json",
+    "size": 406,
+    "sha256": "accba7e532a57ca20cac1fcef6905a94776c1f768b2e34a93525d5220e84704b"
+  },
+  {
+    "path": "ket_qua/09_dien_serum_creatinine/kiem_tra_sql.json",
+    "size": 236,
+    "sha256": "0a8a0dd36f479904c56cfdd07adeb1e149fa828d82093447579d02184b13f0be"
+  },
+  {
+    "path": "ket_qua/09_dien_serum_creatinine/minh_chung/python_chuan_bi_creatinine.png",
+    "size": 70627,
+    "sha256": "9d332a3380b467fd761f246911dddeecff22ccfcd14d754b3d0589478939cdee"
+  },
+  {
+    "path": "ket_qua/09_dien_serum_creatinine/minh_chung/python_dien_creatinine.png",
+    "size": 102794,
+    "sha256": "20508f1dd546da0cfb6208754a75e3eec3aac47ece8b0b498fe5bc3982e4a4b9"
+  },
+  {
+    "path": "ket_qua/09_dien_serum_creatinine/minh_chung/python_luu_creatinine.png",
+    "size": 46797,
+    "sha256": "3ed7c4b10760e37d5488979fe66e7fe470c8b148a90eaa69717ceb05204c7f22"
+  },
+  {
+    "path": "ket_qua/09_dien_serum_creatinine/minh_chung/python_nhat_ky_creatinine.png",
+    "size": 83563,
+    "sha256": "949b3d59ac25532a0fb2a8be3386ad6d838ab3ca242773590c904527396b2831"
+  },
+  {
+    "path": "ket_qua/09_dien_serum_creatinine/minh_chung/python_tai_chuan_bi.png",
+    "size": 75358,
+    "sha256": "c4cb283b77740bc54374aab5721523704137f600205dfe32ff0a67331a089c8c"
+  },
+  {
+    "path": "ket_qua/09_dien_serum_creatinine/minh_chung/python_tai_chuan_bi_age.png",
+    "size": 55975,
+    "sha256": "2871015ae946cac3b330dea70bc1e8287a879af12a391997464fc5e7e099a221"
+  },
+  {
+    "path": "ket_qua/09_dien_serum_creatinine/minh_chung/python_tai_chuan_bi_cpk.png",
+    "size": 70884,
+    "sha256": "64657d6cb0177ab380ea4d917c1532b802237b3dac264a62c4f080dc6e12d1fa"
+  },
+  {
+    "path": "ket_qua/09_dien_serum_creatinine/minh_chung/python_tai_chuan_bi_platelets.png",
+    "size": 37433,
+    "sha256": "89f0b3b4d513eb2a44c9a4d39c185275b49a5c22620ee299327e56a19f28dad5"
+  },
+  {
+    "path": "ket_qua/09_dien_serum_creatinine/minh_chung/python_tai_dien_age.png",
+    "size": 80780,
+    "sha256": "265a4470e0a4630f77060d88b21859172f35834a71432472012bc15321289a58"
+  },
+  {
+    "path": "ket_qua/09_dien_serum_creatinine/minh_chung/python_tai_dien_cpk.png",
+    "size": 76649,
+    "sha256": "40b3a99ccd54e635b3527ad1beb7d43fbf79f247db48b40f5b9e7d8778c9bcab"
+  },
+  {
+    "path": "ket_qua/09_dien_serum_creatinine/minh_chung/python_tai_dien_platelets.png",
+    "size": 76574,
+    "sha256": "1f9fc80d5e2c0c2568376b5ea73805ca670b556ca88a3fb1cc3d26467fb023c4"
+  },
+  {
+    "path": "ket_qua/09_dien_serum_creatinine/minh_chung/python_tai_dien_sex.png",
+    "size": 62660,
+    "sha256": "619441c3fb5e7038fee982ae84b15ed8bbc08d7d945b6ec3e49fccfe32241adc"
+  },
+  {
+    "path": "ket_qua/09_dien_serum_creatinine/minh_chung/sql_dien_serum_creatinine.png",
+    "size": 219478,
+    "sha256": "2e3b8659ffd01f29eafa9506554e63f944f384ff97ff74c10109fb36b9b13f0b"
+  },
+  {
+    "path": "ket_qua/09_dien_serum_creatinine/nhat_ky_python.csv",
+    "size": 1012,
+    "sha256": "b8704cc74ac828d6346f0ec08158f39469141647c3ca73aa9aa07fd54b8c4f80"
+  },
+  {
+    "path": "ket_qua/09_dien_serum_creatinine/nhat_ky_sql.csv",
+    "size": 1410,
+    "sha256": "a4263fb4485b4d261b0a617459eddafe5d368b45593d885875363b2c6004e375"
+  },
+  {
+    "path": "ket_qua/09_dien_serum_creatinine/tong_ket_python.csv",
+    "size": 84,
+    "sha256": "9af44b6ab759a87b7f4f35b8353ec85679aa37d308df1882b1dde1219c54a91d"
+  },
+  {
+    "path": "ket_qua/10_dien_serum_sodium/ban_lam_viec_sau_sodium_python.csv",
+    "size": 40292,
+    "sha256": "0476c976eea1108a94e7fddbbe34ba81596ad3fa8e43106e8fb573c74dcab48d"
+  },
+  {
+    "path": "ket_qua/10_dien_serum_sodium/doi_chieu_sql_python.json",
+    "size": 401,
+    "sha256": "870857f899ac6e289b85c4385543ccab67195979b49b8c248b7fb55cb5cf8afa"
+  },
+  {
+    "path": "ket_qua/10_dien_serum_sodium/kiem_tra_sql.json",
+    "size": 219,
+    "sha256": "bef4bc39f24f224166509cf313321a07788e738a30adcc35a555ab70aab570e3"
+  },
+  {
+    "path": "ket_qua/10_dien_serum_sodium/minh_chung/python_chuan_bi_sodium.png",
+    "size": 82495,
+    "sha256": "f913fb5c81112a4d538bd19064162d4fe3969cceddcef18200136fc81a564cc5"
+  },
+  {
+    "path": "ket_qua/10_dien_serum_sodium/minh_chung/python_dien_sodium.png",
+    "size": 116351,
+    "sha256": "8c5e8f5117bff9afb9cce84f64b96d1c40db22960e71643fddef757791117293"
+  },
+  {
+    "path": "ket_qua/10_dien_serum_sodium/minh_chung/python_luu_sodium.png",
+    "size": 46700,
+    "sha256": "a7cba0687aa30a3e275bfad4d86dab11c215d29deaaeeb13f05cfd34d929730c"
+  },
+  {
+    "path": "ket_qua/10_dien_serum_sodium/minh_chung/python_nhat_ky_sodium.png",
+    "size": 108291,
+    "sha256": "d591cea81fa7f0f20e84da1bfd3c56d8851e3fe3d37d9eb971678a5a6d5db31b"
+  },
+  {
+    "path": "ket_qua/10_dien_serum_sodium/minh_chung/python_tai_chuan_bi.png",
+    "size": 75301,
+    "sha256": "08d91f28b0c4d144f4dc128434ea9ace115bfe161795c685594d8d26a3c7481a"
+  },
+  {
+    "path": "ket_qua/10_dien_serum_sodium/minh_chung/python_tai_chuan_bi_age.png",
+    "size": 54742,
+    "sha256": "d650480f2f3205a0de5a950b5fdda212f79637e43d13025a4ffc36d71b2de5b4"
+  },
+  {
+    "path": "ket_qua/10_dien_serum_sodium/minh_chung/python_tai_chuan_bi_cpk.png",
+    "size": 68508,
+    "sha256": "044e7975c40b62870ffc87fe6123df5ce36359785a0dbe89b48f59d3194bb9c9"
+  },
+  {
+    "path": "ket_qua/10_dien_serum_sodium/minh_chung/python_tai_chuan_bi_creatinine.png",
+    "size": 41464,
+    "sha256": "ac5e2c6a9415c28a39175fa7455329db006acd17c625f575ac250e9b7d011783"
+  },
+  {
+    "path": "ket_qua/10_dien_serum_sodium/minh_chung/python_tai_chuan_bi_platelets.png",
+    "size": 36112,
+    "sha256": "bcd1ab69bc5eb6954c7c7780ab845d602f5a00b315ae3a86191fb15aa9d1412a"
+  },
+  {
+    "path": "ket_qua/10_dien_serum_sodium/minh_chung/python_tai_dien_age.png",
+    "size": 79292,
+    "sha256": "3a25ac5e7fa09a8a5b3771662889f267c5b3d05c31cf2a81191dd6037a28cc74"
+  },
+  {
+    "path": "ket_qua/10_dien_serum_sodium/minh_chung/python_tai_dien_cpk.png",
+    "size": 77316,
+    "sha256": "2ffea37cc60c04e517ea207ea3bdb143aae7bcf67aa38a494b603aa93eaa4c2e"
+  },
+  {
+    "path": "ket_qua/10_dien_serum_sodium/minh_chung/python_tai_dien_creatinine.png",
+    "size": 73466,
+    "sha256": "298a054f0120e6151f9efcbbf25402656ed118375f060a80088d56c4e3b63b27"
+  },
+  {
+    "path": "ket_qua/10_dien_serum_sodium/minh_chung/python_tai_dien_platelets.png",
+    "size": 78240,
+    "sha256": "7b95d34766cd58ac8c6744fab9c8b81bf51d61dbc45d35ba47ce25f5bfde852e"
+  },
+  {
+    "path": "ket_qua/10_dien_serum_sodium/minh_chung/python_tai_dien_sex.png",
+    "size": 61718,
+    "sha256": "527c226725f959fb8f26c1f8524bdab8d1a0d37a1bde636df688929be6288eaa"
+  },
+  {
+    "path": "ket_qua/10_dien_serum_sodium/minh_chung/sql_dien_serum_sodium.png",
+    "size": 222708,
+    "sha256": "71779d689ea6d9d470c976387d891bb98dcd97047e36d275f6305db8e8747a9c"
+  },
+  {
+    "path": "ket_qua/10_dien_serum_sodium/nhat_ky_python.csv",
+    "size": 1596,
+    "sha256": "898871bef23f44aad6d3588ae39cf0d759a467dd5b1ed075d5979042808cdea2"
+  },
+  {
+    "path": "ket_qua/10_dien_serum_sodium/nhat_ky_sql.csv",
+    "size": 2118,
+    "sha256": "257568188d2d7de19526f26b768a1db128cf89e736566bfc616f410939c77a4c"
+  },
+  {
+    "path": "ket_qua/10_dien_serum_sodium/tong_ket_python.csv",
+    "size": 101,
+    "sha256": "46978233110210c6cc471df7131143102dcada046003393641d360810ad3079f"
+  },
+  {
+    "path": "ket_qua/11_dien_ejection_fraction/ban_lam_viec_sau_ef_python.csv",
+    "size": 40284,
+    "sha256": "dc4638386f958988ed3b139f141f26c600b1b08cda04e62844987b217f62aff7"
+  },
+  {
+    "path": "ket_qua/11_dien_ejection_fraction/doi_chieu_sql_python.json",
+    "size": 372,
+    "sha256": "880541824d7ab39d5168b5ef678ec8a95183a2777e40e56f6591ed23a179dcd9"
+  },
+  {
+    "path": "ket_qua/11_dien_ejection_fraction/kiem_tra_sql.json",
+    "size": 208,
+    "sha256": "795b8f41078c299e30c78bffa93c7329e9b72de9e618bdd3e9c55ac1ccf6ef6f"
+  },
+  {
+    "path": "ket_qua/11_dien_ejection_fraction/minh_chung/python_chuan_bi_ef.png",
+    "size": 74925,
+    "sha256": "f9166019c27fee7b3077edf80ee17acd921b9b2b5fa8b1a16b2b5b6d7ffb4a42"
+  },
+  {
+    "path": "ket_qua/11_dien_ejection_fraction/minh_chung/python_dien_ef.png",
+    "size": 102070,
+    "sha256": "0ddcae63e76195b4d028d478dd4c99b31eab63b910f099b1c8de65730972c6cc"
+  },
+  {
+    "path": "ket_qua/11_dien_ejection_fraction/minh_chung/python_luu_ef.png",
+    "size": 50283,
+    "sha256": "e6166814ab5834399beba1f2248d4bc44827d53af0c14f3ca91e0df5b60f7233"
+  },
+  {
+    "path": "ket_qua/11_dien_ejection_fraction/minh_chung/python_nhat_ky_ef.png",
+    "size": 27171,
+    "sha256": "0afc138529bbfe275ca017cda80e00b1dadd4360f068f4dae30819a02c61068d"
+  },
+  {
+    "path": "ket_qua/11_dien_ejection_fraction/minh_chung/python_tai_chuan_bi.png",
+    "size": 74763,
+    "sha256": "cb5724c8ba900975246dc92bfb876a6e48160277c905fc0a57f92f34c6f96e68"
+  },
+  {
+    "path": "ket_qua/11_dien_ejection_fraction/minh_chung/python_tai_chuan_bi_age.png",
+    "size": 56703,
+    "sha256": "fc16f98452d1523e141895e28f4c70115e0173ed00459188f40ff01adec2c56d"
+  },
+  {
+    "path": "ket_qua/11_dien_ejection_fraction/minh_chung/python_tai_chuan_bi_cpk.png",
+    "size": 68186,
+    "sha256": "9fac6c5dca7199c54bc63f3a6a79e95cdf112d8adec24e0eba32377467c9128b"
+  },
+  {
+    "path": "ket_qua/11_dien_ejection_fraction/minh_chung/python_tai_chuan_bi_creatinine.png",
+    "size": 41626,
+    "sha256": "3c03a59fae7f6d6475d2cf3f898aff52df3bcbc9897d5db3c920387a60eb1c1c"
+  },
+  {
+    "path": "ket_qua/11_dien_ejection_fraction/minh_chung/python_tai_chuan_bi_platelets.png",
+    "size": 38682,
+    "sha256": "311d5e037bd54294821643684c1acac0c16744d50ca6f088ed1f7282ce18033c"
+  },
+  {
+    "path": "ket_qua/11_dien_ejection_fraction/minh_chung/python_tai_chuan_bi_sodium.png",
+    "size": 55634,
+    "sha256": "2c31fe860f58ab41df1b6d22208c60c685c103d613e894ebdb0b955063fbe88b"
+  },
+  {
+    "path": "ket_qua/11_dien_ejection_fraction/minh_chung/python_tai_dien_age.png",
+    "size": 78771,
+    "sha256": "d98b0f0d38381a88838628b323f57193c753db2d7df99f6084601651ab43350e"
+  },
+  {
+    "path": "ket_qua/11_dien_ejection_fraction/minh_chung/python_tai_dien_cpk.png",
+    "size": 75696,
+    "sha256": "9940065cafbaf662104eab583d1d41030d335ba05ef1d98881a050f1d8a61203"
+  },
+  {
+    "path": "ket_qua/11_dien_ejection_fraction/minh_chung/python_tai_dien_creatinine.png",
+    "size": 72513,
+    "sha256": "d2ed17d0a5566e14d4f3e820dbe020c7e8ef2aba02a9f6dec354e54b4faa468e"
+  },
+  {
+    "path": "ket_qua/11_dien_ejection_fraction/minh_chung/python_tai_dien_platelets.png",
+    "size": 78331,
+    "sha256": "ff6e98720036dabb87314ab815e14e76a0dea570aa6879dc22944b91e6f8a888"
+  },
+  {
+    "path": "ket_qua/11_dien_ejection_fraction/minh_chung/python_tai_dien_sex.png",
+    "size": 61866,
+    "sha256": "370030a23386a0708e4db65df1b4c7aaf7754d68f3d5b369f49f62ccea00c811"
+  },
+  {
+    "path": "ket_qua/11_dien_ejection_fraction/minh_chung/python_tai_dien_sodium.png",
+    "size": 87513,
+    "sha256": "af00fe24603a2195b74d0472b792f3397c1bfa24bb311bbb101da57862361702"
+  },
+  {
+    "path": "ket_qua/11_dien_ejection_fraction/minh_chung/sql_dien_ejection_fraction.png",
+    "size": 234118,
+    "sha256": "df3e7fe51035d8eacfa1819e05be210245f7b5522e77cfcc9a1b1eac48d86bda"
+  },
+  {
+    "path": "ket_qua/11_dien_ejection_fraction/nhat_ky_python.csv",
+    "size": 153,
+    "sha256": "8b130dc80520d39274e4c0e46e81f1f51ba3763e2ccaccfc138c348ebc39e811"
+  },
+  {
+    "path": "ket_qua/11_dien_ejection_fraction/nhat_ky_sql.csv",
+    "size": 189,
+    "sha256": "dfe814572ed72debdab0d25164204143bb86fc2226523d540e34a8a848ebc1c6"
+  },
+  {
+    "path": "ket_qua/11_dien_ejection_fraction/tong_ket_python.csv",
+    "size": 90,
+    "sha256": "e0885c1dc9e83a76cef25e77f9adc0938dfe5564fb422ca1294017c8c6034327"
+  },
+  {
+    "path": "ket_qua/12_kiem_chung_sex/kiem_tra_sql.json",
+    "size": 234,
+    "sha256": "511943e59e5f864af8a26a829802632cd69d9bc6f7fa5010a47c68949dd5c929"
+  },
+  {
+    "path": "ket_qua/12_kiem_chung_sex/nhat_ky_sql.csv",
+    "size": 9072,
+    "sha256": "225df8b10393d73f445f2796bb6047bca35e7fe24527fee1bad55b2d2e6c8236"
+  },
+  {
+    "path": "ket_qua/13_lam_min/01_chon_thuoc_tinh/doi_chieu_sql_python.json",
+    "size": 393,
+    "sha256": "93a6ac5cd19bb9e5628d2d034e70fb2b52e94f6441e269bcd2a1179c1d34a0f4"
+  },
+  {
+    "path": "ket_qua/13_lam_min/01_chon_thuoc_tinh/kiem_tra_sql.json",
+    "size": 306,
+    "sha256": "7e53cdeba4f8ed31dd4e1312c1ced8cb2e498fe912bb993c07ae3ca7c95a4680"
+  },
+  {
+    "path": "ket_qua/13_lam_min/01_chon_thuoc_tinh/lua_chon_python.csv",
+    "size": 139,
+    "sha256": "e304988fef8783c2ef64f004a90f29843d14bd7d136599213811e5264ffdeb42"
+  },
+  {
+    "path": "ket_qua/13_lam_min/01_chon_thuoc_tinh/minh_chung/python_lua_chon_thuoc_tinh.png",
+    "size": 105416,
+    "sha256": "b7b36bf3b6dabb374d9a8a2f5efd2f0e2e683ba75a9a23235aefa06b794f00d5"
+  },
+  {
+    "path": "ket_qua/13_lam_min/01_chon_thuoc_tinh/minh_chung/python_thong_ke_thuoc_tinh.png",
+    "size": 124310,
+    "sha256": "21900fe3c4427d90aea9c8bb4ea36ed7f8f66467e0d66872b4e93e7d961e6f22"
+  },
+  {
+    "path": "ket_qua/13_lam_min/01_chon_thuoc_tinh/minh_chung/sql_chon_thuoc_tinh.png",
+    "size": 182090,
+    "sha256": "625788b8960455eb48ddd8626854914b152670f45181c035b71ca66e88f6f56d"
+  },
+  {
+    "path": "ket_qua/13_lam_min/01_chon_thuoc_tinh/thuoc_tinh_python.csv",
+    "size": 524,
+    "sha256": "e9db21b96408b6c9372bd8069c3315b9c7aedffc22dd9db71d3a14a22030de15"
+  },
+  {
+    "path": "ket_qua/13_lam_min/01_chon_thuoc_tinh/thuoc_tinh_sql.csv",
+    "size": 690,
+    "sha256": "fe90096e3a9645638b6bcf494b9610172734b5268dd45afeadb05f1ec2eb1e1d"
+  },
+  {
+    "path": "ket_qua/13_lam_min/02_mean_5_nhom/ban_lam_viec_sau_mean_python.csv",
+    "size": 39176,
+    "sha256": "fe480cc3c2405bd3377153646f6a6c9c9c79a98cc598e9921ccd93f696b14b65"
+  },
+  {
+    "path": "ket_qua/13_lam_min/02_mean_5_nhom/doi_chieu_sql_python.json",
+    "size": 434,
+    "sha256": "4d562fef1d4b6d607c649e9eba812cf2fbb87bc6b64b277ab7d509d57e87e8e0"
+  },
+  {
+    "path": "ket_qua/13_lam_min/02_mean_5_nhom/kiem_tra_sql.json",
+    "size": 397,
+    "sha256": "9fba61ea625bea7279bfc28bad4fdaf0578122979d34930f4bc5acf7183262df"
+  },
+  {
+    "path": "ket_qua/13_lam_min/02_mean_5_nhom/minh_chung/python_bang_nhom.png",
+    "size": 23886,
+    "sha256": "152a3320986b593b1c83daaafb0b27edb64c607f05877adf8d1183098bc8b6ae"
+  },
+  {
+    "path": "ket_qua/13_lam_min/02_mean_5_nhom/minh_chung/python_chuan_bi.png",
+    "size": 72083,
+    "sha256": "4896678e2d05bd81992461b6cb0b39ad67fa62465fcdcd1cd7353b079cd040a3"
+  },
+  {
+    "path": "ket_qua/13_lam_min/02_mean_5_nhom/minh_chung/python_code_mean.png",
+    "size": 147701,
+    "sha256": "58fee06d0d2cacc73164feed34f90359c200f1bd4d8b93ee46ba6d1461042f04"
+  },
+  {
+    "path": "ket_qua/13_lam_min/02_mean_5_nhom/minh_chung/python_luu_ket_qua.png",
+    "size": 56546,
+    "sha256": "8e46f384ffb720eef990bb0131259120834e60144c9161dda50ca29e23ae5bff"
+  },
+  {
+    "path": "ket_qua/13_lam_min/02_mean_5_nhom/minh_chung/python_vi_du.png",
+    "size": 73146,
+    "sha256": "7601988baf7f23e40421f98cac9591e72ac23e5f915f9fa6d8c43025a7278c61"
+  },
+  {
+    "path": "ket_qua/13_lam_min/02_mean_5_nhom/minh_chung/sql_lam_min_5_nhom.png",
+    "size": 204254,
+    "sha256": "5f5360d0512553d69597937b3e9f797f6924bd947cb4aa5d55d0cd43a28e8845"
+  },
+  {
+    "path": "ket_qua/13_lam_min/02_mean_5_nhom/nhat_ky_python.csv",
+    "size": 14208,
+    "sha256": "1fbe77da67189a790c209bf476a976bf57e95fc9f4f719343cf116c18faa2125"
+  },
+  {
+    "path": "ket_qua/13_lam_min/02_mean_5_nhom/nhat_ky_sql.csv",
+    "size": 18781,
+    "sha256": "9840234bd214888a5746667a17af854b1140771813e417d7d6680279e9496f42"
+  },
+  {
+    "path": "ket_qua/13_lam_min/02_mean_5_nhom/nhom_python.csv",
+    "size": 356,
+    "sha256": "bb8eff2f93b047e6e8ca8f3d75ed0e523909e12313dfdf72b78af0a05b310daf"
+  },
+  {
+    "path": "ket_qua/13_lam_min/02_mean_5_nhom/nhom_sql.csv",
+    "size": 391,
+    "sha256": "c9ed3c38c7f255ca021802940df3adc296df62332a2c0145361c7c232e42029c"
+  },
+  {
+    "path": "ket_qua/13_lam_min/02_mean_5_nhom/tong_ket_python.csv",
+    "size": 87,
+    "sha256": "c1268357426429eca40b5dfba563e1c5bd22e040c4bd1a03efb2a422950aa29b"
+  },
+  {
+    "path": "ket_qua/13_lam_min/02_mean_5_nhom/vi_du_python.csv",
+    "size": 527,
+    "sha256": "aec827609a9c4c6c9dddb2657480e3a3241030ac825ab943656469d3a215c7ea"
+  },
+  {
+    "path": "ket_qua/13_lam_min/03_dieu_chinh_10_phan_tram/ban_lam_viec_sau_10_phan_tram_python.csv",
+    "size": 40244,
+    "sha256": "ff70b8fed27e55ef94b450131fbdd2af8e2f8c7272d67799f7776d26ff7d3da9"
+  },
+  {
+    "path": "ket_qua/13_lam_min/03_dieu_chinh_10_phan_tram/minh_chung/python_chuan_bi_10.png",
+    "size": 75854,
+    "sha256": "15bdb9deb40f0b637d14f6460612a2ddd80ad587f054a82909136664cff4ca93"
+  },
+  {
+    "path": "ket_qua/13_lam_min/03_dieu_chinh_10_phan_tram/minh_chung/python_code_10.png",
+    "size": 85988,
+    "sha256": "31e17622cae1716f11b08f9074b268e43f3eeb19a67e63052f39deede0e6639c"
+  },
+  {
+    "path": "ket_qua/13_lam_min/03_dieu_chinh_10_phan_tram/minh_chung/python_luu_10.png",
+    "size": 44444,
+    "sha256": "29d1d97b8ca566a675132f54c62424173d3864dadea26cd503d93b36aad1dc96"
+  },
+  {
+    "path": "ket_qua/13_lam_min/03_dieu_chinh_10_phan_tram/minh_chung/python_nhat_ky_10.png",
+    "size": 64284,
+    "sha256": "26063ace025ebb37f40ee740e6a47fda117ea513d3f012a65b6b8b4cc4d7cd73"
+  },
+  {
+    "path": "ket_qua/13_lam_min/03_dieu_chinh_10_phan_tram/minh_chung/sql_dieu_chinh_10.png",
+    "size": 227212,
+    "sha256": "66481340f09b677d9ea0247367d083ab29400d6a51b36011bee1899728cf9f37"
+  },
+  {
+    "path": "ket_qua/13_lam_min/03_dieu_chinh_10_phan_tram/nhat_ky_python.csv",
+    "size": 678,
+    "sha256": "17f5d9b0f102438f97cc70e5349486c26487fca05a37885edac6729a04555072"
+  },
+  {
+    "path": "ket_qua/13_lam_min/03_dieu_chinh_10_phan_tram/nhat_ky_sql.csv",
+    "size": 760,
+    "sha256": "569ae8fdf072bc29fbabf4ffaeaaba13bfc4f02773247768fb296a07aac87b87"
+  },
+  {
+    "path": "ket_qua/13_lam_min/03_dieu_chinh_10_phan_tram/tong_ket_python.csv",
+    "size": 91,
+    "sha256": "bde47cc08682cf50b85b26a1d07f8450247516260cd3bec998a722b8a7f1c10a"
+  },
+  {
+    "path": "ket_qua/14_ngoai_le/01_khao_sat/doi_chieu_sql_python.json",
+    "size": 109,
+    "sha256": "88bd6082bfe5f7c5054e47f1e7e55f45bd55abf4b0add5a0a7848f7473e3df72"
+  },
+  {
+    "path": "ket_qua/14_ngoai_le/01_khao_sat/five_number_python.csv",
+    "size": 903,
+    "sha256": "5840fa31806b1f32dd865cf917644e4061f076eda8870cb8c5977caf4ce921bc"
+  },
+  {
+    "path": "ket_qua/14_ngoai_le/01_khao_sat/five_number_sql.csv",
+    "size": 838,
+    "sha256": "152e37590f6c8b25c1a27b2777030f5f039cc96cb128e3d8fef0eff5a6f1c017"
+  },
+  {
+    "path": "ket_qua/14_ngoai_le/01_khao_sat/kiem_tra_sql.json",
+    "size": 181,
+    "sha256": "0a1a96564ce99d883ffa0c908790356f788cfa54ec7b6fb361a559ab08a5235a"
+  },
+  {
+    "path": "ket_qua/14_ngoai_le/01_khao_sat/minh_chung/python_chuan_bi.png",
+    "size": 85003,
+    "sha256": "ba74243a74bc1b03ad108072bc14f7770ef8c82e2a41174a28ca3ad897195efe"
+  },
+  {
+    "path": "ket_qua/14_ngoai_le/01_khao_sat/minh_chung/python_five_number.png",
+    "size": 83293,
+    "sha256": "30f70c924a089f939da10e5b857833ba2de8b77950cda95199bb2d93ed1bf58f"
+  },
+  {
+    "path": "ket_qua/14_ngoai_le/01_khao_sat/minh_chung/python_iqr.png",
+    "size": 119274,
+    "sha256": "3891ad3a9e01508906e16c6ac7510fdafcd14acb8c54e9b8a52be6aea278d9fd"
+  },
+  {
+    "path": "ket_qua/14_ngoai_le/01_khao_sat/minh_chung/python_luu.png",
+    "size": 46768,
+    "sha256": "f3ca6165feaa35757963a115e5a83dd7e16c89d8e007e5f12d99c0ca66ca0e7c"
+  },
+  {
+    "path": "ket_qua/14_ngoai_le/01_khao_sat/minh_chung/python_vi_du.png",
+    "size": 105086,
+    "sha256": "87226c86280c43eeb6d171aac941dafa2d6844dd8eb9db30c702b0a880dac476"
+  },
+  {
+    "path": "ket_qua/14_ngoai_le/01_khao_sat/minh_chung/sql_five_number.png",
+    "size": 29144,
+    "sha256": "b5b9e2719e086a36cd0f252181a0dfadf7303f904078f65170c7d91652167b89"
+  },
+  {
+    "path": "ket_qua/14_ngoai_le/01_khao_sat/minh_chung/sql_iqr.png",
+    "size": 24684,
+    "sha256": "5b6241aebcbe86f46a4452053bd3d6f7730ebdddd2bfed0fa361db4f26d1592e"
+  },
+  {
+    "path": "ket_qua/14_ngoai_le/01_khao_sat/minh_chung/sql_vi_du.png",
+    "size": 35518,
+    "sha256": "ec3985d30ee4a85ca0715b58acbe0119c243d091d5309f6d1db36ff0cfdafe70"
+  },
+  {
+    "path": "ket_qua/14_ngoai_le/01_khao_sat/ngoai_le_python.csv",
+    "size": 797,
+    "sha256": "873ee4ca448dd355bcdf79a61c24cf63f9cf9cf3d37efb71f6214701652512d3"
+  },
+  {
+    "path": "ket_qua/14_ngoai_le/01_khao_sat/ngoai_le_sql.csv",
+    "size": 744,
+    "sha256": "e4f7149f3a895387289709bdd6cb4555df2d12af12e9d96445cce831a915049d"
+  },
+  {
+    "path": "ket_qua/14_ngoai_le/01_khao_sat/nhat_ky_python.csv",
+    "size": 7083,
+    "sha256": "1998418b0cb40a8ab6d7248b6e416ab8fa72214e33d0116eae7f7288cc0a526c"
+  },
+  {
+    "path": "ket_qua/14_ngoai_le/01_khao_sat/nhat_ky_sql.csv",
+    "size": 11812,
+    "sha256": "938e96d45641a4baf0ecc99f2dfa42e4e9589ac29a7b5c20f1451765a0995f1c"
+  },
+  {
+    "path": "ket_qua/15_khong_nhat_quan/01_sex_5_vi_du/doi_chieu_sql_python.json",
+    "size": 152,
+    "sha256": "73532562e712974e68619e0ee6a0017da2de84f9de095ebb2d78559609fc9ba3"
+  },
+  {
+    "path": "ket_qua/15_khong_nhat_quan/01_sex_5_vi_du/minh_chung/python_hieu_chinh.png",
+    "size": 61673,
+    "sha256": "c8fb160b3e4e49584cc249e1abdda2cd901a155d1fe37396456c4a13d374d33b"
+  },
+  {
+    "path": "ket_qua/15_khong_nhat_quan/01_sex_5_vi_du/minh_chung/python_luu.png",
+    "size": 36545,
+    "sha256": "730c9508c733e99d7b2e3fe53b31cfd2a136ec0a1a6b8489c988a9bc7aedfae2"
+  },
+  {
+    "path": "ket_qua/15_khong_nhat_quan/01_sex_5_vi_du/minh_chung/python_tao_vi_du.png",
+    "size": 86694,
+    "sha256": "c894ff2fb970bd12ef08f293d0dd9f41b5061fd28dd9931853e79fba591cc1fe"
+  },
+  {
+    "path": "ket_qua/15_khong_nhat_quan/01_sex_5_vi_du/minh_chung/python_tong_ket.png",
+    "size": 48177,
+    "sha256": "02b80d66a318329580c7773a0115a1c99a6a43ba2dea70912b4079d3d04904db"
+  },
+  {
+    "path": "ket_qua/15_khong_nhat_quan/01_sex_5_vi_du/minh_chung/sql_sex_5_vi_du.png",
+    "size": 213964,
+    "sha256": "f7e768923153df48b77770c5b92ac1fb968933fe634f0e17a130cbc6075b59f2"
+  },
+  {
+    "path": "ket_qua/15_khong_nhat_quan/01_sex_5_vi_du/tong_ket_python.csv",
+    "size": 77,
+    "sha256": "bb406d169cb62d6ca79ef041facc6f6e6e0a0bcd8f5fb2a801e95fac8fa42394"
+  },
+  {
+    "path": "ket_qua/15_khong_nhat_quan/01_sex_5_vi_du/tong_ket_sql.csv",
+    "size": 92,
+    "sha256": "1ded01e7fbbfad665a6bb241fb3efa886ee8f25d80b2207449ca910b20a7146c"
+  },
+  {
+    "path": "ket_qua/15_khong_nhat_quan/01_sex_5_vi_du/vi_du_python.csv",
+    "size": 213,
+    "sha256": "297a25a846a75c50bc6c35b81be1b3df053ad434443c6c9e2e025944bb241691"
+  },
+  {
+    "path": "ket_qua/15_khong_nhat_quan/01_sex_5_vi_du/vi_du_sql.csv",
+    "size": 300,
+    "sha256": "9fcbb645ee8931814c64a77917052b0f15b9cb6d6de6d21f638c85b65a68c7b3"
+  },
+  {
+    "path": "ket_qua/15_khong_nhat_quan/02_death_event/ban_lam_viec_nhan_python.csv",
+    "size": 40276,
+    "sha256": "c0d48a3629de7b7f9d26b910be06ca67f0311e786068f59aed5a641e16be85cd"
+  },
+  {
+    "path": "ket_qua/15_khong_nhat_quan/02_death_event/cho_xac_minh_python.csv",
+    "size": 292,
+    "sha256": "a37b4a1df25b076e9b4afb7a1fb7483f15036e48269c28d5025c43ca8beb53d1"
+  },
+  {
+    "path": "ket_qua/15_khong_nhat_quan/02_death_event/doi_chieu_sql_python.json",
+    "size": 194,
+    "sha256": "82ce48d30b3eec95d355355bd43ca365e4ad10b1e9b2c0c9eb3a3d575698acbb"
+  },
+  {
+    "path": "ket_qua/15_khong_nhat_quan/02_death_event/minh_chung/python_luu.png",
+    "size": 47503,
+    "sha256": "df5232b93579be4913f2af21915ffd5972b8316ee4b807cc0049bee5bba1a271"
+  },
+  {
+    "path": "ket_qua/15_khong_nhat_quan/02_death_event/minh_chung/python_nhat_ky.png",
+    "size": 27259,
+    "sha256": "950df6e5ca3e84968e2f8dab8585d4342cf68de455f65aff0097af94422edbb3"
+  },
+  {
+    "path": "ket_qua/15_khong_nhat_quan/02_death_event/minh_chung/python_tan_suat.png",
+    "size": 72512,
+    "sha256": "fb65e09edfa58cdb890415ed09731fbe07c1b9b52113ce885414a3385ffa68c8"
+  },
+  {
+    "path": "ket_qua/15_khong_nhat_quan/02_death_event/minh_chung/python_tong_ket.png",
+    "size": 133501,
+    "sha256": "92f588c48bb38847c31cb93c4329c294fffc3439c058650f6657e15a4dbaafea"
+  },
+  {
+    "path": "ket_qua/15_khong_nhat_quan/02_death_event/minh_chung/sql_death_event.png",
+    "size": 246689,
+    "sha256": "687e4b428d603419e52b7c5612a704c9fafe8ac63e384731f4fa632b3e8a0794"
+  },
+  {
+    "path": "ket_qua/15_khong_nhat_quan/02_death_event/nhan_hop_le_python.csv",
+    "size": 40157,
+    "sha256": "745a9db4b12fcea68841cb911310abdd3875c4e508012cd82561517f18673afb"
+  },
+  {
+    "path": "ket_qua/15_khong_nhat_quan/02_death_event/nhat_ky_python.csv",
+    "size": 117,
+    "sha256": "c023246e527eb26e0a2401269f89a06dfcd03fa16c9ff7e5502837fa9942a085"
+  },
+  {
+    "path": "ket_qua/15_khong_nhat_quan/02_death_event/nhat_ky_sql.csv",
+    "size": 129,
+    "sha256": "779d400f305c0907184b6c2bd44f203a12c63e46143577d3a591a219e276354b"
+  },
+  {
+    "path": "ket_qua/15_khong_nhat_quan/02_death_event/tan_suat_python.csv",
+    "size": 153,
+    "sha256": "05ed99de1b5a0bf5f37cd60956a3102afac940830ba44582ae4535104a6c9d12"
+  },
+  {
+    "path": "ket_qua/15_khong_nhat_quan/02_death_event/tan_suat_sql.csv",
+    "size": 199,
+    "sha256": "5a4037213a6126b1a7b4bf9b237d371ccf0b8c0529d568a6d7d1c9b63ed4a986"
+  },
+  {
+    "path": "ket_qua/15_khong_nhat_quan/02_death_event/tong_ket_python.csv",
+    "size": 98,
+    "sha256": "ec8f61a8704ae8b0b0a61ee80bfbe9ee4a4d8e293d56adad7dc8fe196f46778c"
+  },
+  {
+    "path": "ket_qua/15_khong_nhat_quan/02_death_event/tong_ket_sql.csv",
+    "size": 121,
+    "sha256": "96bab31c24d472da50b597bc5ee562780d2728abb83ce114b940efbaebf46726"
+  },
+  {
+    "path": "ket_qua/16_giam_thieu/01_giam_so_chieu/bang_giam_chieu_python.csv",
+    "size": 20008,
+    "sha256": "403fee0475a256cc61ee027754e5ef961610d1548ab9e22fae0483737c8937e4"
+  },
+  {
+    "path": "ket_qua/16_giam_thieu/01_giam_so_chieu/bang_giam_chieu_sql.csv",
+    "size": 25081,
+    "sha256": "5e037e49c319c976f2711f0c8bd85ce26b75d2af93a19c055a9502b2426fcf6a"
+  },
+  {
+    "path": "ket_qua/16_giam_thieu/01_giam_so_chieu/doi_chieu_sql_python.json",
+    "size": 170,
+    "sha256": "8ddae26e0ed43b366e0655517df65c60d7d2bacafd938cfb677eed14a53bf0ac"
+  },
+  {
+    "path": "ket_qua/16_giam_thieu/01_giam_so_chieu/minh_chung/python_luu.png",
+    "size": 43075,
+    "sha256": "54005bf2ea10729052e8fa7e04a415eacc217359a2b4b1cf0e0cd4bcc016f066"
+  },
+  {
+    "path": "ket_qua/16_giam_thieu/01_giam_so_chieu/minh_chung/python_thuoc_tinh.png",
+    "size": 35918,
+    "sha256": "3fce855c17d0790c3920efb1e7861b5e45c1fd86ede2d7aebc8b1e10198df8d9"
+  },
+  {
+    "path": "ket_qua/16_giam_thieu/01_giam_so_chieu/minh_chung/python_tong_ket.png",
+    "size": 88352,
+    "sha256": "91abac32a21c5572c375ee002c8d5996c778d2c289e6328be735628263c25fa3"
+  },
+  {
+    "path": "ket_qua/16_giam_thieu/01_giam_so_chieu/minh_chung/python_vi_du.png",
+    "size": 72494,
+    "sha256": "5b615e406d96a90c45c3ac406319d2bd706acb56f429aa976f99423e103ced57"
+  },
+  {
+    "path": "ket_qua/16_giam_thieu/01_giam_so_chieu/minh_chung/sql_giam_so_chieu.png",
+    "size": 224620,
+    "sha256": "54233bc3aa23a35cad2088464c9c1b349b97b856e526513703d9f4550422fece"
+  },
+  {
+    "path": "ket_qua/16_giam_thieu/01_giam_so_chieu/thuoc_tinh_python.csv",
+    "size": 122,
+    "sha256": "f64b53be72016f7859201c83ab3d4eb1de80e02ab510c08cfe2a0ff2bb0a58ed"
+  },
+  {
+    "path": "ket_qua/16_giam_thieu/01_giam_so_chieu/thuoc_tinh_sql.csv",
+    "size": 154,
+    "sha256": "678b1d06724db4362b21d762883568a0d0db10b6c4e125593c300c582d588d3d"
+  },
+  {
+    "path": "ket_qua/16_giam_thieu/01_giam_so_chieu/tong_ket_python.csv",
+    "size": 113,
+    "sha256": "125c634118f5d040f6e15a66c6c1037592e80aeedc1de461d2cdb4c792b5a3ed"
+  },
+  {
+    "path": "ket_qua/16_giam_thieu/01_giam_so_chieu/tong_ket_sql.csv",
+    "size": 139,
+    "sha256": "0dbe6c3fd9a6b0c3aa08806c759bd20dfd9e8c2dd12e0915419c02198291204a"
+  },
+  {
+    "path": "ket_qua/16_giam_thieu/02_tong_hop_nhom/doi_chieu_sql_python.json",
+    "size": 150,
+    "sha256": "66d7a8bbc0ba64eae5dbc8a5de27d2a0bc890a8364d16267340f70b07f38780a"
+  },
+  {
+    "path": "ket_qua/16_giam_thieu/02_tong_hop_nhom/kiem_tra_sql.json",
+    "size": 137,
+    "sha256": "4a2c0c015dc599a0ca42ef21245981209f464549f45ff7573c32931564cbced5"
+  },
+  {
+    "path": "ket_qua/16_giam_thieu/02_tong_hop_nhom/minh_chung/python_bang_nhom.png",
+    "size": 104836,
+    "sha256": "e832eb57bbad76b9a4f6d0ca43307794c95c3dfebb5379a0b9f396056bce189f"
+  },
+  {
+    "path": "ket_qua/16_giam_thieu/02_tong_hop_nhom/minh_chung/python_chuan_bi.png",
+    "size": 91080,
+    "sha256": "3c7943f84bb43bb5a9ab1e322555727053dfc36ca27ea9e5ac2c8fc92a4389c3"
+  },
+  {
+    "path": "ket_qua/16_giam_thieu/02_tong_hop_nhom/minh_chung/python_luu.png",
+    "size": 44354,
+    "sha256": "87c67e2b025641dab9f8bbcf1be1f466568139113e8800aed93602a06ecc7091"
+  },
+  {
+    "path": "ket_qua/16_giam_thieu/02_tong_hop_nhom/minh_chung/python_tong_ket.png",
+    "size": 96680,
+    "sha256": "23b489806e8c0b35521878f473b853d9579446387baea4144a461109e5b79275"
+  },
+  {
+    "path": "ket_qua/16_giam_thieu/02_tong_hop_nhom/minh_chung/sql_tong_hop_nhom.png",
+    "size": 234288,
+    "sha256": "b9445e3113b918f2769b1d9b3b0bd2e0e16eb70b363b4be42d113a5ff48faede"
+  },
+  {
+    "path": "ket_qua/16_giam_thieu/02_tong_hop_nhom/nhom_hien_thi_python.csv",
+    "size": 504,
+    "sha256": "abc56d753b2865756197fce8a3b037f60137cf825f503fe8768bae2e0adc71e6"
+  },
+  {
+    "path": "ket_qua/16_giam_thieu/02_tong_hop_nhom/nhom_hien_thi_sql.csv",
+    "size": 654,
+    "sha256": "a578961f1e09665127e450bdf90868780c5920bc3511c7ca6dcf012811f48c99"
+  },
+  {
+    "path": "ket_qua/16_giam_thieu/02_tong_hop_nhom/nhom_python.csv",
+    "size": 483,
+    "sha256": "ee23ce3092107c080b8b75247881062fa87c50dd6faf458ecd166a502ff31474"
+  },
+  {
+    "path": "ket_qua/16_giam_thieu/02_tong_hop_nhom/nhom_sql.csv",
+    "size": 597,
+    "sha256": "a41a2545b03448999836e1750fd82c3ae5c58e2def7ca7a48719d7b73f12dc97"
+  },
+  {
+    "path": "ket_qua/16_giam_thieu/02_tong_hop_nhom/tong_ket_python.csv",
+    "size": 101,
+    "sha256": "8ea018068456f43ef964d6bacd8fe428776b00cc6d7d5c39cdea15f0815b76dc"
+  },
+  {
+    "path": "ket_qua/16_giam_thieu/02_tong_hop_nhom/tong_ket_sql.csv",
+    "size": 120,
+    "sha256": "d948290a45d017ec82c5fb98c23e681eef2e3480ae6aa9200419095959e13496"
+  },
+  {
+    "path": "ket_qua/17_chuyen_doi/01_gop_5_boolean/bang_ma_python.csv",
+    "size": 1865,
+    "sha256": "dc242f5cd971ccad00e42afe6cb5b6245459d745fd27d7dc5f2c1c19de39d7ee"
+  },
+  {
+    "path": "ket_qua/17_chuyen_doi/01_gop_5_boolean/doi_chieu_sql_python.json",
+    "size": 165,
+    "sha256": "836ea730171166e0fcd96a8febb04504f13ab148bfb4ad24943e4fb82f724b34"
+  },
+  {
+    "path": "ket_qua/17_chuyen_doi/01_gop_5_boolean/giai_ma_sql.csv",
+    "size": 9401,
+    "sha256": "036c66dd23fd1e73b70965b8286bc34b76468d5bd0d3370dfc373e70bd0530f6"
+  },
+  {
+    "path": "ket_qua/17_chuyen_doi/01_gop_5_boolean/minh_chung/python_luu.png",
+    "size": 50488,
+    "sha256": "d006f4319d86566bf1911347ffe15fb0fdb0eff7d4157a457f97e040c33c7bc3"
+  },
+  {
+    "path": "ket_qua/17_chuyen_doi/01_gop_5_boolean/minh_chung/python_ma_hoa.png",
+    "size": 66297,
+    "sha256": "9e12900af2371a62b604ee5aa7fd889c564cf05eeb4399813f84df93c80cbd80"
+  },
+  {
+    "path": "ket_qua/17_chuyen_doi/01_gop_5_boolean/minh_chung/python_quy_uoc.png",
+    "size": 75598,
+    "sha256": "b8608c3c8f21317fa9bdec569f5e33360cb6abeb4bf0c7bf4c0f331be76eb0c4"
+  },
+  {
+    "path": "ket_qua/17_chuyen_doi/01_gop_5_boolean/minh_chung/python_vi_du.png",
+    "size": 65345,
+    "sha256": "d05b5d7c58e78103e7136d13de7e4c0b5bda68d9c8dc4c70f6092b124d814b7b"
+  },
+  {
+    "path": "ket_qua/17_chuyen_doi/01_gop_5_boolean/minh_chung/sql_gop_boolean.png",
+    "size": 201248,
+    "sha256": "19bf5414a8812ae368a38ceb0a5d40cc2c8913d7d210bd984399e5dee49309b3"
+  },
+  {
+    "path": "ket_qua/17_chuyen_doi/01_gop_5_boolean/nhat_ky_python.csv",
+    "size": 7910,
+    "sha256": "711385d5e029971484f55aea6868f17ac6aca510aa1e3bfdd6d08a6682d1f3aa"
+  },
+  {
+    "path": "ket_qua/17_chuyen_doi/01_gop_5_boolean/quy_uoc_python.csv",
+    "size": 97,
+    "sha256": "e263be55de0c0e8399dc9e2c901b73ff2407a19c21a5930a0c49a6661ae7d1eb"
+  },
+  {
+    "path": "ket_qua/17_chuyen_doi/01_gop_5_boolean/quy_uoc_sql.csv",
+    "size": 136,
+    "sha256": "64e35c1c8c7b5620c137cd26d914f768af9a19f7989faec6d41362c05a690df1"
+  },
+  {
+    "path": "ket_qua/17_chuyen_doi/01_gop_5_boolean/tong_ket_python.csv",
+    "size": 101,
+    "sha256": "8c569f66c8cb7dae1b74ea6029c93d514252833449d6f8e9892cadef9da9f8c6"
+  },
+  {
+    "path": "ket_qua/17_chuyen_doi/01_gop_5_boolean/tong_ket_sql.csv",
+    "size": 128,
+    "sha256": "11e438b1121408f42df435bf4d6af976e3f132b209c8e6dd02cf201773944eed"
+  },
+  {
+    "path": "ket_qua/17_chuyen_doi/02_danh_muc_thu_tu/doi_chieu_sql_python.json",
+    "size": 183,
+    "sha256": "eca370e4933c0a461ebf2fa712f946f04a2effa567fb012b54c67e1ed778cc4c"
+  },
+  {
+    "path": "ket_qua/17_chuyen_doi/02_danh_muc_thu_tu/ma_danh_muc_thu_tu_python.csv",
+    "size": 5355,
+    "sha256": "289c6dfbedbe1d8925adfcb89b99df88b217b5a17548aff172ec74174d3b6f9f"
+  },
+  {
+    "path": "ket_qua/17_chuyen_doi/02_danh_muc_thu_tu/ma_danh_muc_thu_tu_sql.csv",
+    "size": 10452,
+    "sha256": "b40da6ac74d9c5d3a39dcaa3d36811ee1a58731963468e27ed93a89bb4ba002d"
+  },
+  {
+    "path": "ket_qua/17_chuyen_doi/02_danh_muc_thu_tu/minh_chung/python_kiem_tra.png",
+    "size": 63452,
+    "sha256": "96cd0f05db695c2754ac9d40fd5dc002e454123b101f6994e8001d20a12e9965"
+  },
+  {
+    "path": "ket_qua/17_chuyen_doi/02_danh_muc_thu_tu/minh_chung/python_luu.png",
+    "size": 43900,
+    "sha256": "69ee9fa515d5c5fbf3fe50563e04abb458e17919cc19eeba974a45db275deb69"
+  },
+  {
+    "path": "ket_qua/17_chuyen_doi/02_danh_muc_thu_tu/minh_chung/python_quy_uoc.png",
+    "size": 114461,
+    "sha256": "1a125a2aef82db05799cc28cc810694ce85cf3f397d228b91a28f48365d8fc7b"
+  },
+  {
+    "path": "ket_qua/17_chuyen_doi/02_danh_muc_thu_tu/minh_chung/python_vi_du.png",
+    "size": 59680,
+    "sha256": "e5853c248e0324993281654f056c86ec96b1a3c01b1a52ddcacb8c1fa4bc713e"
+  },
+  {
+    "path": "ket_qua/17_chuyen_doi/02_danh_muc_thu_tu/minh_chung/sql_danh_muc_thu_tu.png",
+    "size": 220549,
+    "sha256": "100f2e5d290348db0362dd15cc95f5f6e20255d351ea867e5bc0604e8279647a"
+  },
+  {
+    "path": "ket_qua/17_chuyen_doi/02_danh_muc_thu_tu/quy_uoc_python.csv",
+    "size": 146,
+    "sha256": "ab06015a1b443da27fce2b1838be6c918297119bae50b10a54202c31046258ca"
+  },
+  {
+    "path": "ket_qua/17_chuyen_doi/02_danh_muc_thu_tu/quy_uoc_sql.csv",
+    "size": 188,
+    "sha256": "b305eb5cf8b1ec74d34cfc344e60557dd680b81ddac3ec2806a30e82812079a5"
+  },
+  {
+    "path": "ket_qua/17_chuyen_doi/02_danh_muc_thu_tu/tong_ket_python.csv",
+    "size": 81,
+    "sha256": "328562fe90269f129557f0816ff70a2e698433af87dca74f66d920777eb60b45"
+  },
+  {
+    "path": "ket_qua/17_chuyen_doi/02_danh_muc_thu_tu/tong_ket_sql.csv",
+    "size": 100,
+    "sha256": "b2b6292c7561aa5bbc12198f14df780bf6b784548969aa472aefcfbc7b44f5a2"
+  },
+  {
+    "path": "ket_qua/18_after/doi_chieu_sql_python.json",
+    "size": 611,
+    "sha256": "428bee21ef764a4b034c334b10d718f10fcc91927d94a0639aca309482c2497c"
+  },
+  {
+    "path": "ket_qua/18_after/HUONG_DAN_AFTER.txt",
+    "size": 1781,
+    "sha256": "95c46eabfbfdecb0814699fd348c45943eb6bfc477906405a7b88cab3d5cfdd2"
+  },
+  {
+    "path": "ket_qua/19_thong_ke_3f/chenh_lech_dinh_luong.csv",
+    "size": 530,
+    "sha256": "3c02e52b84e339ffb920c442dfeba6e1dd3c7faebc0b5a680d29515b13f29c68"
+  },
+  {
+    "path": "ket_qua/19_thong_ke_3f/dinh_luong_python.csv",
+    "size": 827,
+    "sha256": "ecc4dd2da62c089e4ba415b64c0f4a8832a3ca6af947f3aa7872e276b677077e"
+  },
+  {
+    "path": "ket_qua/19_thong_ke_3f/dinh_luong_sql.csv",
+    "size": 1074,
+    "sha256": "9bf6b44cb08a71ee175668244760983a4e2b5b94525eb5759b3f196ac8f897f7"
+  },
+  {
+    "path": "ket_qua/19_thong_ke_3f/doi_chieu_sql_python.json",
+    "size": 328,
+    "sha256": "382aa9bfe31bc28e2b08b0e27ab5939ded173540d84a4e214ae9897dd485ffb7"
+  },
+  {
+    "path": "ket_qua/19_thong_ke_3f/minh_chung/python_boolean.png",
+    "size": 52842,
+    "sha256": "5ab64370448e764b76d2dd4e1a58568bbcd6211064970cc86c28d744ace05ac9"
+  },
+  {
+    "path": "ket_qua/19_thong_ke_3f/minh_chung/python_dinh_luong.png",
+    "size": 42539,
+    "sha256": "2578be563b2fe6799e9989d480857fa56e7012d76e135c502dddb3b62a5f9716"
+  },
+  {
+    "path": "ket_qua/19_thong_ke_3f/minh_chung/python_doi_chieu.png",
+    "size": 44722,
+    "sha256": "4d388e638858a1485f21a240cca26635bf6af56afa355639d5f3994fc323498b"
+  },
+  {
+    "path": "ket_qua/19_thong_ke_3f/minh_chung/python_quy_mo.png",
+    "size": 65330,
+    "sha256": "daea373cea44473e98d90c9e32aa08fb783741d30167dcf46e7267b8acb71593"
+  },
+  {
+    "path": "ket_qua/19_thong_ke_3f/minh_chung/python_tan_suat.png",
+    "size": 37402,
+    "sha256": "90e7584c1fefc5d40ad383f0278cecff30b4b67c4db410e7a0996c4e71ad9f66"
+  },
+  {
+    "path": "ket_qua/19_thong_ke_3f/minh_chung/sql_dinh_luong.png",
+    "size": 40579,
+    "sha256": "7efd8f443b526c11924d1ffe5934fabd141a7c1dc0290fde7f5b8467fa026775"
+  },
+  {
+    "path": "ket_qua/19_thong_ke_3f/minh_chung/sql_tan_suat_1.png",
+    "size": 32965,
+    "sha256": "e328b3a936973209d7b9e5580abd2a9c745892ae26157304c220757bc057fa80"
+  },
+  {
+    "path": "ket_qua/19_thong_ke_3f/minh_chung/sql_tan_suat_2.png",
+    "size": 27030,
+    "sha256": "f76efda698287c787957d26da7c15b00e27fe23959fa3863b43140dca60d4d15"
+  },
+  {
+    "path": "ket_qua/19_thong_ke_3f/quy_mo_python.csv",
+    "size": 58,
+    "sha256": "5931d0acbfc31ecf3d6f7cd01e683006bbb6670ac87186cfca3c0b628429fc70"
+  },
+  {
+    "path": "ket_qua/19_thong_ke_3f/quy_mo_sql.csv",
+    "size": 73,
+    "sha256": "886ef2a56896e955d1e21768a620b9f2db50d6d8f5b016451e7d78841e651917"
+  },
+  {
+    "path": "ket_qua/19_thong_ke_3f/tan_suat_python.csv",
+    "size": 1062,
+    "sha256": "46c293a8ce09c3028da4a73b3c981038ee6e6ca507c0db6aaca63fd69afbd917"
+  },
+  {
+    "path": "ket_qua/19_thong_ke_3f/tan_suat_sql.csv",
+    "size": 1565,
+    "sha256": "34108e43140a666ed53a50b10528f0abec2f98b9729f937a5c7eba356f9455b9"
+  },
+  {
+    "path": "ket_qua/20_ma_tran_3_ho_so/cap_gia_tri_sql.csv",
+    "size": 394,
+    "sha256": "6299a3cee3297d4d6345eb37a9878f7f9273c0fa487ba90c47f5f6c46aea1194"
+  },
+  {
+    "path": "ket_qua/20_ma_tran_3_ho_so/gia_tri_sql.csv",
+    "size": 63266,
+    "sha256": "89c820c66d2912ef1ef313dcea691f16f2baa8a2c33eb94c09a1e86e61ea4f13"
+  },
+  {
+    "path": "ket_qua/20_ma_tran_3_ho_so/ho_so_python.csv",
+    "size": 176,
+    "sha256": "ab30e1e11a898cf3a649fb61b04f8038524c801f6aebf726d414a697fa692789"
+  },
+  {
+    "path": "ket_qua/20_ma_tran_3_ho_so/ho_so_sql.csv",
+    "size": 256,
+    "sha256": "555f26d2d3175d70620c7a638927fd40a993595c7fda5529f8dcc5ffe6ca9688"
+  },
+  {
+    "path": "ket_qua/20_ma_tran_3_ho_so/khac_biet_python.csv",
+    "size": 146,
+    "sha256": "3460f2b0107e04f2e95f092fe2baea1c5f4a363574a897df0238703651eabe1d"
+  },
+  {
+    "path": "ket_qua/20_ma_tran_3_ho_so/khac_biet_sql.csv",
+    "size": 134,
+    "sha256": "3bdead02ab987df331037576586b700d974756774d589b10fcfa2f7a9caaa57c"
+  },
+  {
+    "path": "ket_qua/20_ma_tran_3_ho_so/kiem_tra_cong_thuc_sql.json",
+    "size": 285,
+    "sha256": "7aa21a7eefcf7423d07dccd6e53a1154e5e8135edead867909b54837a7f56e23"
+  },
+  {
+    "path": "ket_qua/20_ma_tran_3_ho_so/kiem_tra_python.csv",
+    "size": 188,
+    "sha256": "35d0081e11aff6782b31eeb3c9d0c70e5647b67aa56a8ae3492db8bb1ae0b2f6"
+  },
+  {
+    "path": "ket_qua/20_ma_tran_3_ho_so/minh_chung/python_euclidean.png",
+    "size": 37367,
+    "sha256": "03131e8c40925f8a44a8e0b28395025d637d3f6b54d2dcdc726cb8ebd194e43e"
+  },
+  {
+    "path": "ket_qua/20_ma_tran_3_ho_so/minh_chung/python_kiem_tra.png",
+    "size": 127594,
+    "sha256": "6871cf96ccfd12d2615c9dfb5e8a5ea25acb11651a13b01d60361019d3b41e63"
+  },
+  {
+    "path": "ket_qua/20_ma_tran_3_ho_so/minh_chung/python_tham_so_z.png",
+    "size": 43714,
+    "sha256": "d19427028cf90dc18fa7586c3cb28698b5af9447120d28d13cf6b5b0cbe7f78f"
+  },
+  {
+    "path": "ket_qua/20_ma_tran_3_ho_so/minh_chung/python_tham_so_z_trung.png",
+    "size": 43714,
+    "sha256": "d19427028cf90dc18fa7586c3cb28698b5af9447120d28d13cf6b5b0cbe7f78f"
+  },
+  {
+    "path": "ket_qua/20_ma_tran_3_ho_so/minh_chung/sql_5_bang.png",
+    "size": 38664,
+    "sha256": "a26d8333df1cbdcec01568c46920dab19ec2ee1a675a619e4ac4f80a6b94e36f"
+  },
+  {
+    "path": "ket_qua/20_ma_tran_3_ho_so/minh_chung/sql_5_bang_moi.png",
+    "size": 38664,
+    "sha256": "a26d8333df1cbdcec01568c46920dab19ec2ee1a675a619e4ac4f80a6b94e36f"
+  },
+  {
+    "path": "ket_qua/20_ma_tran_3_ho_so/tham_so_python.csv",
+    "size": 363,
+    "sha256": "456e9b8040dc8132d6aa5e66a4f976bfcb9d5ad7da69d485a817a849b69e96de"
+  },
+  {
+    "path": "ket_qua/20_ma_tran_3_ho_so/tham_so_sql.csv",
+    "size": 329,
+    "sha256": "3089b86e144c97b18bbee560788df03ed785f72ac9f9d9eeff88f39bb7ec8074"
+  },
+  {
+    "path": "ket_qua/20_ma_tran_3_ho_so/tuong_quan_python.csv",
+    "size": 146,
+    "sha256": "8f021f5e9688a43222c511a912a1d81ffe0dae29977acf355edb189e154f98f9"
+  },
+  {
+    "path": "ket_qua/20_ma_tran_3_ho_so/tuong_quan_sql.csv",
+    "size": 134,
+    "sha256": "0b01f929e48aff1d8fe1b290e38ae8272c3544791e13f45fda041d6cfc7cd1af"
+  },
+  {
+    "path": "ket_qua/20_ma_tran_3_ho_so/z_score_python.csv",
+    "size": 419,
+    "sha256": "c1718c5099ccf228537327b55ebe8d86a644c0173497fb6c4ef94f78ca5cbd03"
+  },
+  {
+    "path": "ket_qua/20_ma_tran_3_ho_so/z_score_sql.csv",
+    "size": 287,
+    "sha256": "ee03c79cc109e6351852a56e3e19b626b87910f435ce5751945ee01682ecefb8"
+  },
+  {
+    "path": "ket_qua/21_do_thi/01_histogram_tuoi/01_histogram_tuoi.png",
+    "size": 107620,
+    "sha256": "54dd685e878354d7d981f871f5937f580089cdf6d70d6b18e132a4026c916b97"
+  },
+  {
+    "path": "ket_qua/21_do_thi/01_histogram_tuoi/minh_chung/python_histogram_man_hinh.png",
+    "size": 34236,
+    "sha256": "3bf6897c0535c96b1deca85f41d163294ba372a56173731885929ac25c485a83"
+  },
+  {
+    "path": "ket_qua/21_do_thi/01_histogram_tuoi/minh_chung/python_kiem_tra.png",
+    "size": 78435,
+    "sha256": "bf6cd19ddf2413a4686f399c0c3def34734f733137e8a0830ef4010d6f68e489"
+  },
+  {
+    "path": "ket_qua/21_do_thi/01_histogram_tuoi/minh_chung/sql_tan_suat.png",
+    "size": 18444,
+    "sha256": "50294f5e29da8834d9bae3ae71522a769c4990e0e1fe19d248d6a5689456255d"
+  },
+  {
+    "path": "ket_qua/21_do_thi/01_histogram_tuoi/tan_suat_python.csv",
+    "size": 222,
+    "sha256": "0afde14640acce4cd6bae0c2ebdfaf69ec0ecacf97fe0a75b4d60df6c0e7b444"
+  },
+  {
+    "path": "ket_qua/21_do_thi/01_histogram_tuoi/tan_suat_sql.csv",
+    "size": 298,
+    "sha256": "756f4c22c04c2856581235716cced8b79eb23a0c42979783894146f561af7d34"
+  },
+  {
+    "path": "ket_qua/21_do_thi/01_histogram_tuoi/tong_quan_sql.csv",
+    "size": 123,
+    "sha256": "62e9ad11a5ceaeba0f43b34c1c9c253177e1a2f41c433291e8ea0924b0507557"
+  },
+  {
+    "path": "ket_qua/21_do_thi/02_boxplot_ef/02_boxplot_ef.png",
+    "size": 130121,
+    "sha256": "0332e33c2acc2b57ef165c2d5a73cac88183b4ae37c62b7ae058ce56a4ae00d4"
+  },
+  {
+    "path": "ket_qua/21_do_thi/02_boxplot_ef/minh_chung/python_boxplot_man_hinh.png",
+    "size": 41813,
+    "sha256": "efc3739dd689ecdc57b0991dace5bcfbf26a6f21afa2ec2bb1c534b4a6160294"
+  },
+  {
+    "path": "ket_qua/21_do_thi/02_boxplot_ef/minh_chung/python_thong_ke.png",
+    "size": 18044,
+    "sha256": "4d557a34e73b92a0ab7bf286ace348e64c2d501af392c03d44d614ecbe897c7b"
+  },
+  {
+    "path": "ket_qua/21_do_thi/02_boxplot_ef/ngoai_le_python.csv",
+    "size": 45,
+    "sha256": "8e09ed69eb5dc99e30aaa4c9fa270db8919182e09715e686f3806b289a3d4785"
+  },
+  {
+    "path": "ket_qua/21_do_thi/02_boxplot_ef/thong_ke_python.csv",
+    "size": 155,
+    "sha256": "f8dddb438dfb46b68ee4b2150315d6142112ec62b5111179415052a65c6e42b1"
+  },
+  {
+    "path": "ket_qua/21_do_thi/03_histogram_creatinine/03_histogram_creatinine.png",
+    "size": 118631,
+    "sha256": "9cfd1ac59c5faca53a7e5647b662c7bc20b977f49ec246c3f4f1da9383958b8b"
+  },
+  {
+    "path": "ket_qua/21_do_thi/03_histogram_creatinine/minh_chung/python_histogram_man_hinh.png",
+    "size": 41244,
+    "sha256": "5bed9117567d20f19bb36dc8e12dc6d2d9f9f46e9647ceb5d8c9d2ccffed39f4"
+  },
+  {
+    "path": "ket_qua/21_do_thi/03_histogram_creatinine/minh_chung/python_thong_ke.png",
+    "size": 45970,
+    "sha256": "d1e73030f21e79cad84952b3f9f945610422e96330a35e7978ea1981d310ed74"
+  },
+  {
+    "path": "ket_qua/21_do_thi/03_histogram_creatinine/tan_suat_python.csv",
+    "size": 341,
+    "sha256": "a97a86729e76a026573fd503162051f8aaf71cfcd72d6670e7fc42baaa0e6966"
+  },
+  {
+    "path": "ket_qua/21_do_thi/03_histogram_creatinine/thong_ke_python.csv",
+    "size": 96,
+    "sha256": "24826b4bfe177da96a400dabcc665255c50f0305d927f8a3cef6e0031ce50cf5"
+  },
+  {
+    "path": "ket_qua/21_do_thi/04_kde_platelets/04_kde_platelets.png",
+    "size": 165239,
+    "sha256": "4299a6e8a6d4e581732599960481af8018b9710bf0f1750e0945c6feba1b1aae"
+  },
+  {
+    "path": "ket_qua/21_do_thi/04_kde_platelets/duong_kde_python.csv",
+    "size": 80567,
+    "sha256": "ce9b069adfd2d8c5cc631409cdc7c71c308933e741f1fb62eafecc947653fc64"
+  },
+  {
+    "path": "ket_qua/21_do_thi/04_kde_platelets/kiem_tra_python.csv",
+    "size": 83,
+    "sha256": "192fcf237dca43fa5d60923462279c75913b6e52344b8e9682bbcca639de0a73"
+  },
+  {
+    "path": "ket_qua/21_do_thi/04_kde_platelets/minh_chung/python_kde_man_hinh.png",
+    "size": 54308,
+    "sha256": "a94ad30c3e8ef2d236f82dc85970e756a6427778157c003a87d7215af1f6650f"
+  },
+  {
+    "path": "ket_qua/21_do_thi/04_kde_platelets/minh_chung/python_thong_ke.png",
+    "size": 52893,
+    "sha256": "159ed1a9d8ede97513e1907752dba0f483bf53ec9ebca5279c5f46a6146877d7"
+  },
+  {
+    "path": "ket_qua/21_do_thi/04_kde_platelets/thong_ke_python.csv",
+    "size": 171,
+    "sha256": "46f0d845bec996e5c8a0ca54c2de0a7995bde3410c8d933011d0dd3ad87b311d"
+  },
+  {
+    "path": "ket_qua/21_do_thi/05_ecdf_cpk/05_ecdf_cpk.png",
+    "size": 167045,
+    "sha256": "3e41379c529e75a80eb42326a35416dbec170e411f435d69f907a4e245e8c996"
+  },
+  {
+    "path": "ket_qua/21_do_thi/05_ecdf_cpk/ecdf_python.csv",
+    "size": 6188,
+    "sha256": "1f039203fe74c53dc59ae3bc28e4aa6277441a17f0476405a06b51d2fbd87da3"
+  },
+  {
+    "path": "ket_qua/21_do_thi/05_ecdf_cpk/minh_chung/python_ecdf_man_hinh.png",
+    "size": 57613,
+    "sha256": "59aaa7979683bb89aa01bd3d472ab35239bdb892aba6636c0073e63c696afc79"
+  },
+  {
+    "path": "ket_qua/21_do_thi/05_ecdf_cpk/minh_chung/python_thong_ke.png",
+    "size": 54223,
+    "sha256": "5eeca1ab5ca37451f70eb141222c14885811b45d86afc752a6143e27f04d2304"
+  },
+  {
+    "path": "ket_qua/21_do_thi/05_ecdf_cpk/moc_tich_luy_python.csv",
+    "size": 97,
+    "sha256": "b16cf57fe549a9690934e33f17f3724474282dd93a68348956cb49867c484f73"
+  },
+  {
+    "path": "ket_qua/21_do_thi/05_ecdf_cpk/thong_ke_python.csv",
+    "size": 88,
+    "sha256": "a4fec7822d8d52b1b03a94324b0baed0146c9195a5598a7d27371757d6c6518d"
+  },
+  {
+    "path": "ket_qua/21_do_thi/06_scatter_ef_creatinine/06_scatter_ef_creatinine.png",
+    "size": 195645,
+    "sha256": "78d2f2277144b0c9142ce4d2d5f20bb96a0df1b6f37168fe864cd5b2fb9d177a"
+  },
+  {
+    "path": "ket_qua/21_do_thi/06_scatter_ef_creatinine/du_lieu_ve_python.csv",
+    "size": 4443,
+    "sha256": "6ac3bd1dd570db19c9e630589e6bb95016feeae61e75fa31b8ac1cfa8c3f9264"
+  },
+  {
+    "path": "ket_qua/21_do_thi/06_scatter_ef_creatinine/minh_chung/python_scatter_man_hinh.png",
+    "size": 59313,
+    "sha256": "3fd8e99c0031e1e751847e17472a3c36e750ace609e776a051e419fd2ff3e130"
+  },
+  {
+    "path": "ket_qua/21_do_thi/06_scatter_ef_creatinine/minh_chung/python_thong_ke.png",
+    "size": 41379,
+    "sha256": "4d9b6bf4f2dadae723ef6a51f4baf0eefd7f2d60d031523fe4d7780a7ca4fe53"
+  },
+  {
+    "path": "ket_qua/21_do_thi/06_scatter_ef_creatinine/quy_mo_python.csv",
+    "size": 75,
+    "sha256": "10d9a4731451a4d71a1bfdf0c9104b71a7afdbe353f9ccb254b96c46856c6e12"
+  },
+  {
+    "path": "ket_qua/21_do_thi/06_scatter_ef_creatinine/thong_ke_nhan_python.csv",
+    "size": 173,
+    "sha256": "b9d7005b00b14ccce565e9f5aa2e389a39d5b1c7a0c4ba56e9f73d3267590246"
+  },
+  {
+    "path": "ket_qua/21_do_thi/07_violin_age_sex/07_violin_age_sex.png",
+    "size": 204358,
+    "sha256": "8f385765fb8244db7916dcd966f558918f941a3c6f91c295ec32d3b099ad2589"
+  },
+  {
+    "path": "ket_qua/21_do_thi/07_violin_age_sex/du_lieu_ve_python.csv",
+    "size": 3203,
+    "sha256": "0c6d8db6942cf96d317ed254a8dac9476a5da8f48abd69e59fcd73435212530b"
+  },
+  {
+    "path": "ket_qua/21_do_thi/07_violin_age_sex/minh_chung/python_thong_ke.png",
+    "size": 10347,
+    "sha256": "cc1a5eba2df0da5665715359fa0d13cdbca3c9bac69e92fdaab05033d61e30f6"
+  },
+  {
+    "path": "ket_qua/21_do_thi/07_violin_age_sex/minh_chung/python_violin_man_hinh.png",
+    "size": 57481,
+    "sha256": "f070240ee2d050777c2a3146785e25ab58a9bbbfd4a98e74765e92871f723de5"
+  },
+  {
+    "path": "ket_qua/21_do_thi/07_violin_age_sex/thong_ke_python.csv",
+    "size": 213,
+    "sha256": "3591107472848713562cc507b17a0d60a784458858de5c7a6f96ec455bcffb35"
+  },
+  {
+    "path": "ket_qua/21_do_thi/08_heatmap_tuong_quan/08_heatmap_tuong_quan.png",
+    "size": 187988,
+    "sha256": "42ec397ab5ef3c2707dee2e5a862d3bd29bb9201bba8a9c42d9bbe70c8a4bcba"
+  },
+  {
+    "path": "ket_qua/21_do_thi/08_heatmap_tuong_quan/cac_cap_python.csv",
+    "size": 1120,
+    "sha256": "0caefa6749fcb093009d5a5deb82808789d62591fa85f54ff056a9cfcd230803"
+  },
+  {
+    "path": "ket_qua/21_do_thi/08_heatmap_tuong_quan/minh_chung/python_cac_cap.png",
+    "size": 15681,
+    "sha256": "30386edb9ec681be68725fdf67b2ff096172906e96cc3bc176b1f73ae25737e3"
+  },
+  {
+    "path": "ket_qua/21_do_thi/08_heatmap_tuong_quan/minh_chung/python_heatmap_man_hinh.png",
+    "size": 60975,
+    "sha256": "77528fd56b2eb2f261a26a2a781cc13aac0becbd2831728eafbfaaa23c203aff"
+  },
+  {
+    "path": "ket_qua/21_do_thi/08_heatmap_tuong_quan/minh_chung/python_ma_tran.png",
+    "size": 55279,
+    "sha256": "a5c0ff6acfb01fdb147f3566b0b38da53b8a5fb3bf60c9134010ae9299885dd1"
+  },
+  {
+    "path": "ket_qua/21_do_thi/08_heatmap_tuong_quan/quy_mo_python.csv",
+    "size": 63,
+    "sha256": "6a0c49758e7b82e76501f57f69ee11f86336980d50907d40a42c992c3a7549f6"
+  },
+  {
+    "path": "ket_qua/21_do_thi/08_heatmap_tuong_quan/tuong_quan_python.csv",
+    "size": 848,
+    "sha256": "2c985e3254dff08ed3b147d59c3c25eed95448fc0d17a36dc96b9fa6e875a7de"
+  },
+  {
+    "path": "ket_qua/21_do_thi/09_bar_nhan/09_bar_nhan.png",
+    "size": 133942,
+    "sha256": "7585a15e4476552012415c1f62563f0b88f1c73ef5c22b62576d9593fc767abe"
+  },
+  {
+    "path": "ket_qua/21_do_thi/09_bar_nhan/minh_chung/python_bar_man_hinh.png",
+    "size": 45053,
+    "sha256": "c3d5f93ddaf2310e3f53581586e5be1af8d04fde41df65798266e104eb2c241d"
+  },
+  {
+    "path": "ket_qua/21_do_thi/09_bar_nhan/minh_chung/python_tong_hop.png",
+    "size": 10873,
+    "sha256": "b0407bff87789911bae321090c4f6f1d60fe830f6dc0611371f266b6ca0d1d39"
+  },
+  {
+    "path": "ket_qua/21_do_thi/09_bar_nhan/tong_hop_python.csv",
+    "size": 219,
+    "sha256": "167546e38bd1e4e5b6f81f79903c4896398598096e33e547d533312f7026d964"
+  },
+  {
+    "path": "ket_qua/21_do_thi/10_bar_dac_diem/10_bar_dac_diem.png",
+    "size": 162483,
+    "sha256": "555d7410b274f6d72b5ca34d63039fc0bf7c7cc228cc8a9a2cc432ee7f952332"
+  },
+  {
+    "path": "ket_qua/21_do_thi/10_bar_dac_diem/minh_chung/python_bar_man_hinh.png",
+    "size": 52444,
+    "sha256": "1bc310968775e1528a9f205e97e82679c60f459b0a6eb7dd0e5cb9dc32678bdf"
+  },
+  {
+    "path": "ket_qua/21_do_thi/10_bar_dac_diem/minh_chung/python_tong_hop.png",
+    "size": 15206,
+    "sha256": "1bf50a61d0c62379639ffe0aa38efc040fd23aeb58d40af7e49fd66084a4e23f"
+  },
+  {
+    "path": "ket_qua/21_do_thi/10_bar_dac_diem/tong_hop_python.csv",
+    "size": 287,
+    "sha256": "c22c128f14fb1a9828742b10d3edb0f294f175cc24e16916aff58665e011a3dd"
+  },
+  {
+    "path": "ket_qua/21_do_thi/11_cot_chong_tuoi_nhan/11_cot_chong_tuoi_nhan.png",
+    "size": 148635,
+    "sha256": "c6d2259c5757220b1fc42850e90073a70a74fd51048967ee46191a5478795c16"
+  },
+  {
+    "path": "ket_qua/21_do_thi/11_cot_chong_tuoi_nhan/minh_chung/python_cot_chong_man_hinh.png",
+    "size": 46841,
+    "sha256": "15891e8e133311a19a9e2ade65bef0c601407b429883d6073950f7d3d9976648"
+  },
+  {
+    "path": "ket_qua/21_do_thi/11_cot_chong_tuoi_nhan/minh_chung/python_tong_hop.png",
+    "size": 12382,
+    "sha256": "a3a897509a09e36f107e9a731e225353366ac4c673b63999de428ba74742de27"
+  },
+  {
+    "path": "ket_qua/21_do_thi/11_cot_chong_tuoi_nhan/tong_hop_python.csv",
+    "size": 179,
+    "sha256": "d9a7e3600d6377f0f789cd2815ec53d342314259c6e1639f1de7bdffa05e527a"
+  },
+  {
+    "path": "ket_qua/21_do_thi/12_duong_ef_nhom_tuoi/12_duong_ef_nhom_tuoi.png",
+    "size": 167447,
+    "sha256": "aa51b801da50159d84dd6422405a49cae37836052d265af8eba1cecb11fe06c2"
+  },
+  {
+    "path": "ket_qua/21_do_thi/12_duong_ef_nhom_tuoi/minh_chung/python_duong_man_hinh.png",
+    "size": 55389,
+    "sha256": "8b4cc7cfeaa528b12b61365ee5714cdee557cbc2f86a7746d760c0c31371242f"
+  },
+  {
+    "path": "ket_qua/21_do_thi/12_duong_ef_nhom_tuoi/minh_chung/python_tong_hop.png",
+    "size": 13949,
+    "sha256": "ae982d5f2a352aad1bc218e145d82240139430b24621212e72a7e378ae309ed9"
+  },
+  {
+    "path": "ket_qua/21_do_thi/12_duong_ef_nhom_tuoi/tong_hop_python.csv",
+    "size": 293,
+    "sha256": "3819980330c86e4ff344004593c178e4a95fce4e7207354e2c2fe0c93c3fff85"
+  },
+  {
+    "path": "ket_qua/21_do_thi/13_heatmap_ty_le_nhan/13_heatmap_ty_le_nhan.png",
+    "size": 214116,
+    "sha256": "22ff5c29d45c8e37688ff16c7a3bd526c26aceba51008b3e5a56b8390c10439e"
+  },
+  {
+    "path": "ket_qua/21_do_thi/13_heatmap_ty_le_nhan/minh_chung/python_heatmap_man_hinh.png",
+    "size": 67483,
+    "sha256": "15dfe313336264773da84bd06dddc4afbd90430746253f707529812e3cad4a41"
+  },
+  {
+    "path": "ket_qua/21_do_thi/13_heatmap_ty_le_nhan/minh_chung/python_tong_hop.png",
+    "size": 88444,
+    "sha256": "52408cacf1fd0554d28b48c6b4fab86ed97f8addc2271381564437958adf456e"
+  },
+  {
+    "path": "ket_qua/21_do_thi/13_heatmap_ty_le_nhan/quy_mo_python.csv",
+    "size": 63,
+    "sha256": "3d33ef0600efbdbcb4ee00dae24601a7e319cc2807196f7de45faba2da4573ef"
+  },
+  {
+    "path": "ket_qua/21_do_thi/13_heatmap_ty_le_nhan/tong_hop_python.csv",
+    "size": 467,
+    "sha256": "f8f811e322cbdbb32e07c786960f7bdf4e5864520becade925dc1b1920519f21"
+  },
+  {
+    "path": "ket_qua/21_do_thi/14_bubble_nhom/14_bubble_nhom.png",
+    "size": 265912,
+    "sha256": "921281f754d524eeaf778fe633de16612ba342fd6504bb51320abf4dff6350fa"
+  },
+  {
+    "path": "ket_qua/21_do_thi/14_bubble_nhom/minh_chung/python_bubble_man_hinh.png",
+    "size": 78763,
+    "sha256": "9e83a053af4ee0ef503c1aea65bbd6800d67346f11fc64c8984e136981f0cc36"
+  },
+  {
+    "path": "ket_qua/21_do_thi/14_bubble_nhom/minh_chung/python_tong_hop.png",
+    "size": 16160,
+    "sha256": "f63396e71002017a27cbde8138b0b684d318e3c69c530ee2df3fa0aac8716d4d"
+  },
+  {
+    "path": "ket_qua/21_do_thi/14_bubble_nhom/tong_hop_python.csv",
+    "size": 410,
+    "sha256": "54f57279836b5e5aade174daf59ed4ca04e07026f08da718917a3fa9029a65bd"
+  },
+  {
+    "path": "ket_qua/21_do_thi/15_pie_gioi_tinh/15_pie_gioi_tinh.png",
+    "size": 123336,
+    "sha256": "79e200264a8d49b37127f4e10f48d8edec80e45c7f3847e85d0a6a1265c75562"
+  },
+  {
+    "path": "ket_qua/21_do_thi/15_pie_gioi_tinh/minh_chung/python_pie_man_hinh.png",
+    "size": 41579,
+    "sha256": "9b9451c1181c83853bd0b91757dd744613aa2dcd50920c5c35197e7c6052c8ef"
+  },
+  {
+    "path": "ket_qua/21_do_thi/15_pie_gioi_tinh/minh_chung/python_tong_hop.png",
+    "size": 6215,
+    "sha256": "be2296cf37fe85e15be52d92734f2f2210f5ce80ccc4ab05aa04c41b1e236ea7"
+  },
+  {
+    "path": "ket_qua/21_do_thi/15_pie_gioi_tinh/tong_hop_python.csv",
+    "size": 107,
+    "sha256": "839302567bd16e999fd8ca6d761a6d994f132775430fac4224d5c03f861d4a75"
+  },
+  {
+    "path": "ket_qua/21_do_thi/ke_hoach_15_do_thi.csv",
+    "size": 1318,
+    "sha256": "b2ab875832e3b76ae7db82efd16a1bf76bd8eda1732266b14f18235191d70664"
+  },
+  {
+    "path": "ket_qua/21_do_thi/kiem_tra_yeu_cau_chuong_4.json",
+    "size": 337,
+    "sha256": "3c8d01100c3abc378ce25938218b7928aa437e97fa0fa83bd534f3fab27d5412"
+  },
+  {
+    "path": "ket_qua/22_ra_soat_bao_cao/cap_nhat_ket_luan.json",
+    "size": 601,
+    "sha256": "9faca3e8c09335a595f3d16cd16cde17087d523afe4c4935d8bb313f2602838f"
+  },
+  {
+    "path": "ket_qua/22_ra_soat_bao_cao/dinh_dang_chu_thich_bang.json",
+    "size": 227,
+    "sha256": "497ef04a61304b8307136cd9a2cd1dc9fa99f92fc228a19afb2c86004d31e320"
+  },
+  {
+    "path": "MoTaCauTrucDuLieu.png",
+    "size": 253838,
+    "sha256": "7c5c2f3cfd45d576b869440f14277a9114c68e6c93abd576b8019d4edc0eec76"
+  },
+  {
+    "path": "python/00_kiem_tra_nhap.ipynb",
+    "size": 6325,
+    "sha256": "80542e8e5bbf7cc7351d44cf827ab64541e288aceb5d1769f2994719dcd394b2"
+  },
+  {
+    "path": "python/01_kiem_tra_du_lieu.ipynb",
+    "size": 12010,
+    "sha256": "12315f727ceee3e82e56de9df298afa792c5f80238e19eed81357be2b7fc743d"
+  },
+  {
+    "path": "python/01_kiem_tra_du_lieu.py",
+    "size": 13263,
+    "sha256": "4f16d874b0bae08bedb56a531582946d6353fbb321b0da8ed303c331bc257246"
+  },
+  {
+    "path": "python/02_khao_sat_du_lieu_tho.ipynb",
+    "size": 38668,
+    "sha256": "9a3191857da7092c3f881b6a68dac20856349022720dc292d2be5118afc2cdd4"
+  },
+  {
+    "path": "python/04_dien_null.ipynb",
+    "size": 31475,
+    "sha256": "a1dd0481246ec07da42316fae99bd497f816f288dc726cc57b19b3dad94ae7cd"
+  },
+  {
+    "path": "python/04_dien_null.py",
+    "size": 16331,
+    "sha256": "f6bf24e38df6d6fd2f7abb4391a718a2025aec975677b866a6215b588446c992"
+  },
+  {
+    "path": "python/05_dien_null_sex.ipynb",
+    "size": 23314,
+    "sha256": "d1654bdcee4463b7aa2f0d19c870a01f079593cad137cf4129b1f426d02fdeb1"
+  },
+  {
+    "path": "python/06_dien_null_age.ipynb",
+    "size": 34613,
+    "sha256": "259743a44905e9b6dce6cce436b79e07f47df227875b2eea5d0c49b06692bc5f"
+  },
+  {
+    "path": "python/07_dien_null_cpk.ipynb",
+    "size": 41662,
+    "sha256": "907b2f2ff3edbc7ac226faea2f0b531d775b62406fb3ef811e6073e8ec1d732a"
+  },
+  {
+    "path": "python/08_dien_null_platelets.ipynb",
+    "size": 44841,
+    "sha256": "49fe1e8bf94d4568b8a1b28952a94bf295f1bd7de6528755ebc10b24f6e3bb1a"
+  },
+  {
+    "path": "python/09_dien_null_serum_creatinine.ipynb",
+    "size": 51777,
+    "sha256": "9609420009893db0d2a7662f919145e805babe6cb639c04fb1a794851159d645"
+  },
+  {
+    "path": "python/10_dien_null_serum_sodium.ipynb",
+    "size": 62029,
+    "sha256": "1b9e9259d1b434a55dea3b852cb6bba4dd3abfa4b9c0777eb2b08311fb2f5c29"
+  },
+  {
+    "path": "python/11_dien_null_ejection_fraction.ipynb",
+    "size": 53998,
+    "sha256": "2040d3fd4edeb962365f2a55656406ebd7f359a04b31c823bc4d483e8b55caa1"
+  },
+  {
+    "path": "python/12_chon_thuoc_tinh_lam_min.ipynb",
+    "size": 16233,
+    "sha256": "9bfc8862a1d8a68681e6e1a442f1e9939f04bd1c325ff492753ca6ef450a6ef4"
+  },
+  {
+    "path": "python/13_lam_min_platelets_5_nhom.ipynb",
+    "size": 22035,
+    "sha256": "ba220d06a36a5da80ab2f5b1d562871c4837ad1b2324b3ee9e50c26da151ac29"
+  },
+  {
+    "path": "python/14_lam_min_platelets_10_phan_tram.ipynb",
+    "size": 15330,
+    "sha256": "d824d3a9800c38213bdc05c854f7d99aca4b364e0c31a1e2afc862a4d4b3a324"
+  },
+  {
+    "path": "python/15_khao_sat_ngoai_le.ipynb",
+    "size": 30974,
+    "sha256": "3ae23d43e8d354a5704971b3f57ddaf86120d333d1c5470dd6d953711b7cc7ce"
+  },
+  {
+    "path": "python/16_chuan_hoa_sex_5_vi_du.ipynb",
+    "size": 13725,
+    "sha256": "141a16f5a6415438f2d6f9839cd274e848cb8e1430e41c63dd674d77969cf6a4"
+  },
+  {
+    "path": "python/17_xu_ly_death_event.ipynb",
+    "size": 12545,
+    "sha256": "f9afed8b1615a8425322201e9ee7fae0d729cf0c143edc15df0a65ed945195b9"
+  },
+  {
+    "path": "python/18_giam_so_chieu.ipynb",
+    "size": 13857,
+    "sha256": "345451b2bc48bb30812776fd56679cfbd2c1ca6fd57f2c77cbde05d9168b1f0c"
+  },
+  {
+    "path": "python/19_giam_so_dong_tong_hop.ipynb",
+    "size": 16097,
+    "sha256": "53c754721c1b0a98176075ba8071c38a81f4c56af594d4630451e24d8bf150f1"
+  },
+  {
+    "path": "python/20_gop_5_boolean.ipynb",
+    "size": 14132,
+    "sha256": "af373cd1b13d439a7e6ff857f60e66d89e4057c3be28c38ed9994ebccfbf2f91"
+  },
+  {
+    "path": "python/21_ma_hoa_danh_muc_thu_tu.ipynb",
+    "size": 13061,
+    "sha256": "0358d98b37e94d48edb4dda9a86a65cd0d6f3093457a33835c927dcb9fa74db1"
+  },
+  {
+    "path": "python/22_xuat_after.ipynb",
+    "size": 10206,
+    "sha256": "24c5e82fbfc6ac94dc06e77f373528802460aa9c98f5b8bfd845e02338ff7f6f"
+  },
+  {
+    "path": "python/22_xuat_after.py",
+    "size": 4545,
+    "sha256": "c636b081aec783dc849469673ad9d9278f65cb81ff53e47cf2cd0baf8cf59e0c"
+  },
+  {
+    "path": "python/23_thong_ke_sau_tien_xu_ly.ipynb",
+    "size": 39943,
+    "sha256": "db054df4fc0dee202376737cda38f8166c3d79b62acc800bb4ff93154b8b5390"
+  },
+  {
+    "path": "python/24_ma_tran_3_ho_so.ipynb",
+    "size": 21756,
+    "sha256": "70d5201cb4a41eb80360a71403006289d2e16087bcf01631341fab105a69e436"
+  },
+  {
+    "path": "python/25_do_thi_01_histogram_tuoi.ipynb",
+    "size": 50912,
+    "sha256": "87dd602dc3883fbfa78190efff6545f63cb2439723b39489323fc539f08ef83f"
+  },
+  {
+    "path": "python/26_do_thi_02_boxplot_ef.ipynb",
+    "size": 59416,
+    "sha256": "e059717308c195906665fa27ff73917695badaac3fe3b9d477a2946528f127bc"
+  },
+  {
+    "path": "python/27_do_thi_03_histogram_creatinine.ipynb",
+    "size": 58926,
+    "sha256": "d789614a7dfb833a69d747518a14287b78a6105b10cbb625ddef0fe940be9c83"
+  },
+  {
+    "path": "python/28_do_thi_04_kde_platelets.ipynb",
+    "size": 72845,
+    "sha256": "cbe2d7af04cb272c941c126cafe8856494267f76b1f26cfa324e1dd30061772f"
+  },
+  {
+    "path": "python/29_do_thi_05_ecdf_cpk.ipynb",
+    "size": 69716,
+    "sha256": "1781be6d57993e95525e612a712005314357211eb8f8aeecb5a6a1e8f0ce188e"
+  },
+  {
+    "path": "python/30_do_thi_06_scatter_ef_creatinine.ipynb",
+    "size": 77936,
+    "sha256": "6e0e5ec8ed2d0e6a8771902dda1aa20b91dc0d469c4ea0475dd3b99491a23447"
+  },
+  {
+    "path": "python/31_do_thi_07_violin_age_sex.ipynb",
+    "size": 74153,
+    "sha256": "b69c7cb372c06a240c0d27f296faf604995cf94dcfe0e600d479f7232c3eba88"
+  },
+  {
+    "path": "python/32_do_thi_08_heatmap_tuong_quan.ipynb",
+    "size": 7205,
+    "sha256": "5b01b56d43d6767e7cc250ab91a94e7a691aae51b771d1a8d23858fbf95b29f2"
+  },
+  {
+    "path": "python/33_do_thi_09_bar_nhan.ipynb",
+    "size": 56269,
+    "sha256": "a3581342ebc72219e268a382eb0d9959f42fd9d3e486fb52effd5f859b324bc5"
+  },
+  {
+    "path": "python/34_do_thi_10_bar_dac_diem.ipynb",
+    "size": 63790,
+    "sha256": "8d69ec3d94a53ca84d421857c3ed7c3cba1245c6d12cbbcf71d57c8f95c2e9b8"
+  },
+  {
+    "path": "python/35_do_thi_11_cot_chong_tuoi_nhan.ipynb",
+    "size": 60914,
+    "sha256": "97c89abad89ece0695fa5f9bc61cca3f712366159dc7bffe8e59f2ecdf71fe40"
+  },
+  {
+    "path": "python/36_do_thi_12_duong_ef_nhom_tuoi.ipynb",
+    "size": 69326,
+    "sha256": "4ee60d93b4f418c21ba3dbe637cc75df89fa684fb48931c92a44243ecbbb794c"
+  },
+  {
+    "path": "python/37_do_thi_13_heatmap_ty_le_nhan.ipynb",
+    "size": 90018,
+    "sha256": "ecfc9b74583152d9ab9cf4196f385e3061440959511df0b3fabf48dd3924a071"
+  },
+  {
+    "path": "python/38_do_thi_14_bubble_nhom.ipynb",
+    "size": 99143,
+    "sha256": "710e777bea9a2ad74520cbcb760ab6e2e8046b669aaa045c43ee22cea28f412b"
+  },
+  {
+    "path": "python/39_do_thi_15_pie_gioi_tinh.ipynb",
+    "size": 54939,
+    "sha256": "3360697d671fe99efb5820dcc3c1d276a3c86d081888267c5c72dc248d963b73"
+  },
+  {
+    "path": "query_dataanalyst.sql",
+    "size": 67591,
+    "sha256": "e567d4bfcc54c6880e1dbc6b751170a8b2ba24471a742c6da3a237ba232d2b17"
+  },
+  {
+    "path": "requirements.txt",
+    "size": 34,
+    "sha256": "63d580b924867c8c7a744e8501e938b2f83caeb3fa6e56aaa2dea626d2206206"
+  },
+  {
+    "path": "sql/00_kiem_tra_nhap.sql",
+    "size": 1240,
+    "sha256": "05d526ace9f97481892b933af3a62ed958d4e6913ecad6499fbe974de1515400"
+  },
+  {
+    "path": "sql/01_nhap_du_lieu_before.sql",
+    "size": 39198,
+    "sha256": "661c54d9196f9f0701a609e44746aef404d3b568b461cf310e6b3145d9b8397b"
+  },
+  {
+    "path": "sql/02_khao_sat_du_lieu_tho.sql",
+    "size": 3269,
+    "sha256": "110822434ce3a1b6381debbdfa510d8e344055fc6ff3ac184e7746fe740d81ae"
+  },
+  {
+    "path": "sql/03_dien_null.sql",
+    "size": 24024,
+    "sha256": "2ed0f8f029411439c9a5d809a2645e87896a2b713f42764fad6bf2bf4e5f4abe"
+  },
+  {
+    "path": "sql/03a_chuan_bi_dien_sex.sql",
+    "size": 2445,
+    "sha256": "93a15d69ba1077c406665e07efa9cb528b18eb17e9600ab2e495b7090d807e7f"
+  },
+  {
+    "path": "sql/03b_dien_null_sex.sql",
+    "size": 1939,
+    "sha256": "c33ee5dcd581e3c10fdcf6f74587ba87cd206332e408a0b1915eac4a76715b72"
+  },
+  {
+    "path": "sql/03c_dien_null_age.sql",
+    "size": 3301,
+    "sha256": "03b8032a1029d1f6d3f51d4da9c40d210dd61095aaba299fa60dc5933946b15e"
+  },
+  {
+    "path": "sql/03d_dien_null_cpk.sql",
+    "size": 3750,
+    "sha256": "49a6488cfc69833ff91d6e786f5fd90b11f411647288a81b5f23ee25467a4c28"
+  },
+  {
+    "path": "sql/03e_dien_null_platelets.sql",
+    "size": 3408,
+    "sha256": "614d28dcc2a8f4faf2c090c39c7515a9c8a5fd85e00e0f5b0c4eefb51998d1d3"
+  },
+  {
+    "path": "sql/03f_dien_null_serum_creatinine.sql",
+    "size": 3420,
+    "sha256": "4a02b0a4eec23d46bbae06ab14c0bd4eb61645f819d3ba87e432a9cc0fa65316"
+  },
+  {
+    "path": "sql/03g_dien_null_serum_sodium.sql",
+    "size": 3391,
+    "sha256": "27c79b743329f4067325d560ec2383bed0cfbfb0e902e77878e7254b532211f4"
+  },
+  {
+    "path": "sql/04a_kiem_chung_dien_sex.sql",
+    "size": 4742,
+    "sha256": "b6180821b5ae0c216648d2611bd257e519379d78f28316af906b3d7732811acf"
+  },
+  {
+    "path": "sql/05a_chon_thuoc_tinh_lam_min.sql",
+    "size": 2211,
+    "sha256": "f80629a909370737a0e12e81808e0b5bcb041afa398ece7e1e25a9177b2e363a"
+  },
+  {
+    "path": "sql/05b_lam_min_platelets_5_nhom.sql",
+    "size": 3358,
+    "sha256": "1358a53a59cd63902e78bac5dbfa61f5d82f2fcad8f902a607b3fda1b1f3a7e5"
+  },
+  {
+    "path": "sql/05c_lam_min_platelets_10_phan_tram.sql",
+    "size": 2479,
+    "sha256": "9c01b0d7c77992f8c10fa9bb4be917121b19470c9171a2f4fec51c9ff2d94821"
+  },
+  {
+    "path": "sql/06a_khao_sat_ngoai_le.sql",
+    "size": 4133,
+    "sha256": "afab7d6a62e6e13d3ffe2ae36e340724d499ac1d92a47a5d5cbe42f2880fb209"
+  },
+  {
+    "path": "sql/07a_chuan_hoa_sex_5_vi_du.sql",
+    "size": 3233,
+    "sha256": "e56117b824a89f5ad6df151c29d75aa43cb4797788074f844f7948a6a3e420e2"
+  },
+  {
+    "path": "sql/07b_xu_ly_death_event.sql",
+    "size": 2802,
+    "sha256": "cf9ac1fce65ed5cd4a9593d69f98399fd671fa89308a50ab704fb3cc2dbdbfee"
+  },
+  {
+    "path": "sql/08a_giam_so_chieu.sql",
+    "size": 2847,
+    "sha256": "e226338e82148ff038e77b529d5701986df70a4e123c2c7ddc7f10887bd7a32e"
+  },
+  {
+    "path": "sql/09a_gop_5_boolean.sql",
+    "size": 3167,
+    "sha256": "9069ab3d183d03cce19afd20b77a1b1cdd7b040ea9b033a7c35e6c42c4f30ccf"
+  },
+  {
+    "path": "sql/09b_ma_hoa_danh_muc_thu_tu.sql",
+    "size": 3633,
+    "sha256": "ae5287479a04842b1b3a05633ccb7df1fd4354c2e38c10d0d6f218d46b2033ec"
+  },
+  {
+    "path": "sql/10_hop_nhat_after.sql",
+    "size": 2665,
+    "sha256": "288bef3a798fad090d8e8729dd198a231f580dc371bde85d986eb3e3781228f9"
+  },
+  {
+    "path": "sql/10_xuat_after.sh",
+    "size": 1677,
+    "sha256": "5977ba5b3608acae5e9e6987b45cc08319809d24b48334ee1285118761ec0841"
+  },
+  {
+    "path": "sql/11_thong_ke_sau_tien_xu_ly.sql",
+    "size": 5821,
+    "sha256": "df1136a7e612f805e1d12d5a3145410887aeeffcb245388c3ece9ddd3d66aefb"
+  },
+  {
+    "path": "sql/12_ma_tran_3_ho_so.sql",
+    "size": 6246,
+    "sha256": "8e12f565ca607f49cfa570ee6d55ac63abde1fd14c02cf8679cb757e9ca92dce"
+  },
+  {
+    "path": "sql/13_do_thi_01_histogram_tuoi.sql",
+    "size": 2196,
+    "sha256": "a974cd1bc8b9103764fbea2d68c8906dc00fa4e721869cb933b159485aca6eeb"
+  },
+  {
+    "path": "VoMinhHuy_DoAn.docx",
+    "size": 12325652,
+    "sha256": "50a46069d7e28f2fc43d8c689b0f4908d861d9f027680683ec3b715c4f4d6386"
+  },
+  {
+    "path": "VoMinhHuy_Heart Failure Prediction_after_Python.csv",
+    "size": 35591,
+    "sha256": "0e541f667fae7c85da4bbbc3eadaa16a2064ec9d6d8069ddeeb0bf1cc7e0006d"
+  },
+  {
+    "path": "VoMinhHuy_Heart Failure Prediction_after_SQL.csv",
+    "size": 35912,
+    "sha256": "b04aa75d89e7d5fe28b05d66fb18d77b3718f4638f7289216bf99efef38eebdc"
+  },
+  {
+    "path": "VoMinhHuy_Heart Failure Prediction_before.csv",
+    "size": 13942,
+    "sha256": "d14cfc3e65d5b7eb772bec919bef749de338ea7f63a509ee66c830dd3293e8c5"
+  }
+]

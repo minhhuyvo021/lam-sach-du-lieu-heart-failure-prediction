@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "records": 3,
+  "features": 6,
+  "normalization_population": 299,
+  "pearson_max_absolute_error": 5.662137425588298e-15,
+  "euclidean_max_absolute_error": 4.063416270128073e-14,
+  "symmetric": true,
+  "diagonal_pearson": 1,
+  "diagonal_euclidean": 0
+}

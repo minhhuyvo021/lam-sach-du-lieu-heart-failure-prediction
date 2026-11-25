@@ -1,0 +1,27 @@
+{
+  "TongQuan": "Khớp 309 dòng và 13 cột",
+  "GiaTriThieu": "Khớp cả 13 cột và tỷ lệ thiếu",
+  "KieuLuuTru": "SQL nvarchar(50), Python chuỗi; không yêu cầu cùng tên kiểu giữa hai hệ thống",
+  "TanSuatSoLuong": "Khớp số lượng 23 nhóm khi đối chiếu theo giá trị đã bỏ khoảng trắng đầu",
+  "TanSuatNguyenTrang": "KHÔNG khớp hoàn toàn: Import Flat File đã bỏ 3 khoảng trắng đầu tại 24 ô Male và 1 ô F",
+  "SoOAnhHuong": 25,
+  "KhacBiet": [
+    {
+      "TenCot": "sex",
+      "GiaTriSQL": "[F   ]",
+      "GiaTriPython": "[   F   ]",
+      "SoLuongSQL": 1,
+      "SoLuongPython": 1,
+      "KhopNguyenTrang": false
+    },
+    {
+      "TenCot": "sex",
+      "GiaTriSQL": "[Male   ]",
+      "GiaTriPython": "[   Male   ]",
+      "SoLuongSQL": 24,
+      "SoLuongPython": 24,
+      "KhopNguyenTrang": false
+    }
+  ],
+  "ThaoTac": "Chỉ SELECT và đọc CSV. Không sửa raw, không bù lại khoảng trắng."
+}

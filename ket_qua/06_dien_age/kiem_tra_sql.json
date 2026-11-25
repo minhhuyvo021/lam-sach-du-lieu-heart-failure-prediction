@@ -1,0 +1,5 @@
+{
+  "status": "PASS",
+  "cells_checked": 23,
+  "comparison": "N02 group keys, priority, donor counts, exact median, rounded age agree with prior independently executed Python rules. Observed valid ages unchanged."
+}

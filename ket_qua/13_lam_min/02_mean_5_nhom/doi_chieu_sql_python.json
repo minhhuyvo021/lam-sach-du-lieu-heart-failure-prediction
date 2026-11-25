@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "records_compared": 299,
+  "bin_counts": [
+    51,
+    210,
+    34,
+    2,
+    2
+  ],
+  "bins_compared": 5,
+  "unrounded_mean_scale": 10,
+  "final_scale": 2,
+  "other_columns_preserved": true,
+  "boundary_convention": "left inclusive, right exclusive; maximum included in bin 5",
+  "input_sha256": "0f829e3ef4f5508fb56675b1a9c0ec23bed246b19b43197f999400aad930b6f2",
+  "input_preserved": true
+}

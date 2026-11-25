@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "records_compared": 299,
+  "integer_code_columns": 7,
+  "ordered_groups": 4,
+  "age_mismatches": 0,
+  "unknown_labels": 1,
+  "source_preserved": true
+}

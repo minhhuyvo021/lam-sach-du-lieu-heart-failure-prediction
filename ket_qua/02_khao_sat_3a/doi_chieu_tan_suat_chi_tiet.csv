@@ -1,0 +1,24 @@
+﻿TenCot,GiaTriSQL,GiaTriPython,SoLuongSQL,SoLuongPython,KhopNguyenTrang
+anaemia,<NULL>,<NULL>,5,5,True
+anaemia,[0],[0],170,170,True
+anaemia,[1],[1],134,134,True
+diabetes,<NULL>,<NULL>,5,5,True
+diabetes,[0],[0],179,179,True
+diabetes,[1],[1],125,125,True
+high_blood_pressure,<NULL>,<NULL>,5,5,True
+high_blood_pressure,[0],[0],197,197,True
+high_blood_pressure,[1],[1],107,107,True
+sex,<NULL>,<NULL>,25,25,True
+sex,[0],[0],82,82,True
+sex,[1],[1],160,160,True
+sex,[F   ],[   F   ],1,1,False
+sex,[Male   ],[   Male   ],24,24,False
+sex,[female],[female],16,16,True
+sex,[m],[m],1,1,True
+smoking,<NULL>,<NULL>,5,5,True
+smoking,[0],[0],207,207,True
+smoking,[1],[1],97,97,True
+DEATH_EVENT,<NULL>,<NULL>,5,5,True
+DEATH_EVENT,[0],[0],204,204,True
+DEATH_EVENT,[1],[1],99,99,True
+DEATH_EVENT,[2],[2],1,1,True

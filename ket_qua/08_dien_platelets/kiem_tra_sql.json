@@ -1,0 +1,5 @@
+{
+  "status": "PASS",
+  "cells_checked": 20,
+  "comparison": "Sex, anaemia, group priority, donor counts, mean at 10 decimal places and final platelets at 2 decimals match independently executed Python N04. Observed platelets unchanged."
+}

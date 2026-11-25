@@ -1,0 +1,5 @@
+{
+  "status": "PASS",
+  "cells_checked": 21,
+  "comparison": "Age groups, diabetes, group priority, donor counts, modes and rounded values match independently executed Python N06. Observed serum_sodium unchanged."
+}

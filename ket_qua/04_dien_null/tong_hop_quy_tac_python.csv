@@ -1,0 +1,8 @@
+﻿rule_id,column_name,missing_cells,filled_cells,fallback_cells,min_donors,max_donors
+N01,sex,20,20,0,8,32
+N02,age,23,23,0,45,103
+N03,creatinine_phosphokinase,21,21,0,24,41
+N04,platelets,20,20,0,43,104
+N05,serum_creatinine,20,20,0,12,58
+N06,serum_sodium,21,21,0,19,48
+N07,ejection_fraction,1,1,0,56,56

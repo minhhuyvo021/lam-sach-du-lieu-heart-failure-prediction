@@ -1,0 +1,20 @@
+{
+  "so_do_thi": 15,
+  "so_loai_khong_tach_stacked_bar": 11,
+  "cac_loai": [
+    "Bar",
+    "Boxplot",
+    "Bubble",
+    "ECDF",
+    "Heatmap",
+    "Histogram",
+    "KDE",
+    "Line",
+    "Pie",
+    "Scatter",
+    "Violin"
+  ],
+  "so_do_thi_tong_hop": 7,
+  "tat_ca_hoan_thanh_word": true,
+  "heading_do_thi_word": 15
+}

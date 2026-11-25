@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "columns_checked": 12,
+  "rows": 299,
+  "selected_range_column": "platelets",
+  "selected_std_column": "platelets",
+  "range": 824900,
+  "sample_std_display": 94807.77,
+  "input": "Intermediate after N07; SQL calculations verified against Python on the same 299 records."
+}
